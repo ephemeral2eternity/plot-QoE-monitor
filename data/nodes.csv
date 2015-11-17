@@ -1,0 +1,373 @@
+7,ricepl-1.cs.rice.edu,26,Rice University,128.42.142.41,unknown,unknown
+11,pl1.eecs.utk.edu,34,University of Tennessee at Knoxville,160.36.57.172,us-central1-f,us-central1
+14,planetlab1.cs.ubc.ca,36,University of British Columbia,142.103.2.1,us-central1-f,us-central1
+15,planetlab2.cs.ubc.ca,36,University of British Columbia,142.103.2.2,us-central1-b,us-central1
+19,planetlab1.cs.umass.edu,38,University of Massachusetts Amherst,128.119.247.251,us-central1-c,us-central1
+33,planetlab1.postel.org,18,"University of Southern California, ISI",206.117.37.4,us-central1-f,us-central1
+35,planetlab02.cs.washington.edu,14,University of Washington,128.208.4.198,us-central1-a,us-central1
+36,planetlab03.cs.washington.edu,14,University of Washington,128.208.4.199,us-central1-b,us-central1
+42,planetlab-3.cmcl.cs.cmu.edu,15,Carnegie Mellon University,128.2.211.115,unknown,unknown
+73,planetlab1.netlab.uky.edu,4,University of Kentucky,128.163.142.20,us-central1-a,us-central1
+74,planetlab2.netlab.uky.edu,4,University of Kentucky,128.163.142.21,us-central1-a,us-central1
+77,lefthand.eecs.harvard.edu,2,Harvard University,140.247.60.123,us-central1-b,us-central1
+78,righthand.eecs.harvard.edu,2,Harvard University,140.247.60.126,us-central1-b,us-central1
+85,planetlab2.cis.upenn.edu,9,University of Pennsylvania,158.130.6.253,us-central1-c,us-central1
+87,ricepl-2.cs.rice.edu,26,Rice University,128.42.142.42,us-central1-b,us-central1
+90,planetlab1.eecs.umich.edu,21,University of Michigan,141.213.4.201,us-central1-f,us-central1
+94,planetlab1.cs.columbia.edu,16,Columbia University,128.59.20.226,us-central1-a,us-central1
+95,planetlab2.cs.columbia.edu,16,Columbia University,128.59.20.227,us-central1-c,us-central1
+96,planetlab3.cs.columbia.edu,16,Columbia University,128.59.20.228,us-central1-a,us-central1
+108,planetlab1.cs.uiuc.edu,58,University of Illinois at Urbana-Champaign,72.36.112.71,us-central1-b,us-central1
+159,planetlab1.cs.purdue.edu,77,Purdue,128.10.18.52,us-central1-b,us-central1
+160,planetlab2.cs.purdue.edu,77,Purdue,128.10.18.53,us-central1-b,us-central1
+164,planetlab1.cnds.jhu.edu,81,Johns Hopkins CNDS,128.220.231.2,us-central1-b,us-central1
+165,planetlab2.cnds.jhu.edu,81,Johns Hopkins CNDS,128.220.231.3,unknown,unknown
+201,planetlab1.pop-mg.rnp.br,92,Universidade Federal de Minas Gerais,200.19.159.34,us-central1-a,us-central1
+202,planetlab2.pop-mg.rnp.br,92,Universidade Federal de Minas Gerais,200.19.159.35,us-central1-a,us-central1
+224,planetlab1.tamu.edu,109,Texas AM University,0.0.0.0,unknown,unknown
+225,planetlab2.tamu.edu,109,Texas AM University,0.0.0.0,unknown,unknown
+3230,planetlab1.bgu.ac.il,131,Ben-Gurion University of the Negev,132.72.23.10,unknown,unknown
+3412,pli1-pa-4.hpl.hp.com,79,HP Labs,204.123.28.55,us-central1-f,us-central1
+8161,planetlab1.ewi.tudelft.nl,175,Delft University of Technology,130.161.40.153,unknown,unknown
+10096,planetlab1.cs.unc.edu,57,University of North Carolina at Chapel Hill,204.85.191.10,us-central1-a,us-central1
+10112,planetlab1.cs.colorado.edu,10038,University of Colorado at Boulder,128.138.207.44,us-central1-f,us-central1
+10154,planetlab1.ie.cuhk.edu.hk,44,The Chinese University of Hong Kong,137.189.98.208,unknown,unknown
+10172,planetlab1.acis.ufl.edu,10061,University of Florida - ACIS Lab,128.227.150.11,us-central1-a,us-central1
+10173,planetlab2.acis.ufl.edu,10061,University of Florida - ACIS Lab,128.227.150.12,us-central1-b,us-central1
+10175,planetlab1.cs.pitt.edu,10066,University of Pittsburgh,192.52.240.213,unknown,unknown
+10185,planetlab2.ie.cuhk.edu.hk,44,The Chinese University of Hong Kong,0.0.0.0,unknown,unknown
+10203,planetlab2.rutgers.edu,78,Rutgers University,165.230.49.115,us-central1-a,us-central1
+10208,planetlab-1.ssvl.kth.se,10074,"Royal Institute of Technology (KTH), Sweden",192.16.125.11,europe-west1-d,europe-west
+10236,planetlab1.rutgers.edu,78,Rutgers University,165.230.49.114,us-central1-a,us-central1
+10268,planetlab-2.cs.colostate.edu,10085,Colorado State University,129.82.12.188,unknown,unknown
+10381,planet-lab1.cs.ucr.edu,10109,"University of California, Riverside",169.235.24.133,asia-east1-a,asia-east
+10382,planet-lab2.cs.ucr.edu,10109,"University of California, Riverside",169.235.24.232,asia-east1-a,asia-east
+10390,planetlab2.csee.usf.edu,10107,University of South Florida (CSE),131.247.2.242,us-central1-f,us-central1
+10395,planetlab-1.cse.ohio-state.edu,10110,Ohio State University,164.107.127.12,unknown,unknown
+10396,planetlab-2.cse.ohio-state.edu,10110,Ohio State University,164.107.127.13,us-central1-b,us-central1
+10484,planetlab1.eecs.wsu.edu,10138,Washington State University,134.121.64.4,us-central1-c,us-central1
+10485,planetlab2.eecs.wsu.edu,10138,Washington State University,134.121.64.7,us-central1-a,us-central1
+10505,planetlab1.sfc.wide.ad.jp,10145,Keio University,203.178.143.10,asia-east1-b,asia-east
+10506,planetlab2.sfc.wide.ad.jp,10145,Keio University,203.178.143.28,asia-east1-b,asia-east
+10522,planetlab1.uta.edu,10150,University of Texas at Arlington,129.107.35.131,unknown,unknown
+10524,planetlab1.cesnet.cz,10151,CESNET - Czech Education and Research Network,195.113.161.82,europe-west1-c,europe-west
+10527,planetlab2.cesnet.cz,10151,CESNET - Czech Education and Research Network,195.113.161.83,europe-west1-b,europe-west
+10534,kc-sce-plab2.umkc.edu,10146,University of Missouri Kansas City,204.56.0.138,us-central1-c,us-central1
+10544,planetlab1.ucsd.edu,6,University of California at San Diego,132.239.17.224,us-central1-b,us-central1
+10545,planetlab2.ucsd.edu,6,University of California at San Diego,132.239.17.225,us-central1-f,us-central1
+10546,planetlab3.ucsd.edu,6,University of California at San Diego,132.239.17.226,us-central1-f,us-central1
+10589,planet2.cc.gt.atl.ga.us,90,Georgia Institute of Technology,143.215.131.197,us-central1-c,us-central1
+10590,planet3.cc.gt.atl.ga.us,90,Georgia Institute of Technology,143.215.131.198,us-central1-b,us-central1
+10591,planet4.cc.gt.atl.ga.us,90,Georgia Institute of Technology,143.215.131.199,us-central1-a,us-central1
+10595,planetlab0.otemachi.wide.ad.jp,10159,WIDE Project,203.178.133.2,asia-east1-c,asia-east
+10596,planetlab1.otemachi.wide.ad.jp,10159,WIDE Project,203.178.133.3,asia-east1-b,asia-east
+10598,planetlab1.dojima.wide.ad.jp,10159,WIDE Project,203.178.133.11,unknown,unknown
+10692,planetlab1.fit.vutbr.cz,10151,CESNET - Czech Education and Research Network,147.229.8.26,europe-west1-d,europe-west
+10699,planetlab3.mini.pw.edu.pl,150,Warsaw University of Technology,194.29.178.13,europe-west1-b,europe-west
+10700,planetlab4.mini.pw.edu.pl,150,Warsaw University of Technology,194.29.178.14,europe-west1-b,europe-west
+10725,planetlab1.citadel.edu,10195,The Citadel,155.225.2.71,unknown,unknown
+10746,planetlab1.arizona-gigapop.net,7,University of Arizona,206.207.248.34,us-central1-b,us-central1
+10803,planetlab-01.bu.edu,63,Boston University,204.8.155.226,us-central1-c,us-central1
+10815,planetlab-02.bu.edu,63,Boston University,0.0.0.0,unknown,unknown
+10841,planetlab1.eecs.ucf.edu,10148,University of Central Florida - EECS,132.170.3.32,us-central1-b,us-central1
+10842,planetlab2.eecs.ucf.edu,10148,University of Central Florida - EECS,132.170.3.33,us-central1-b,us-central1
+10859,planetlab2.williams.edu,10243,Williams College,137.165.1.112,unknown,unknown
+10860,planetlab3.williams.edu,10243,Williams College,137.165.1.113,us-central1-f,us-central1
+10904,planetlab1.comp.nus.edu.sg,189,National University of Singapore,137.132.80.106,asia-east1-c,asia-east
+10905,planetlab2.comp.nus.edu.sg,189,National University of Singapore,137.132.80.105,unknown,unknown
+10911,pluto.cs.brown.edu,217,Brown University,192.91.235.230,us-central1-c,us-central1
+10918,planetlabone.ccs.neu.edu,10006,Northeastern University CCIS,129.10.120.193,us-central1-a,us-central1
+10919,planetlabtwo.ccs.neu.edu,10006,Northeastern University CCIS,129.10.120.194,us-central1-a,us-central1
+10932,planetlab2.cs.unc.edu,57,University of North Carolina at Chapel Hill,204.85.191.11,us-central1-a,us-central1
+11003,cs-planetlab3.cs.surrey.sfu.ca,10057,Simon Fraser University,206.12.16.154,us-central1-f,us-central1
+11005,planetlab2.csie.nuk.edu.tw,10285,National University of Kaohsiung,140.127.208.239,unknown,unknown
+11015,pl2.ucs.indiana.edu,10100,Indiana University (Bloomington),156.56.250.227,us-central1-f,us-central1
+11038,cs-planetlab4.cs.surrey.sfu.ca,10057,Simon Fraser University,206.12.16.155,us-central1-b,us-central1
+11043,netapp6.cs.kookmin.ac.kr,10281,Kookmin University,203.246.112.147,asia-east1-a,asia-east
+11044,netapp7.cs.kookmin.ac.kr,10281,Kookmin University,203.246.112.148,asia-east1-a,asia-east
+11057,node1.planetlab.mathcs.emory.edu,10279,Emory University,170.140.119.69,us-central1-c,us-central1
+11059,planetlab4.williams.edu,10243,Williams College,137.165.1.114,us-central1-a,us-central1
+11072,node2.planetlab.mathcs.emory.edu,10279,Emory University,170.140.119.70,us-central1-f,us-central1
+11076,planetlab2.arizona-gigapop.net,7,University of Arizona,206.207.248.35,us-central1-b,us-central1
+11083,planetlab3.wail.wisc.edu,41,University of Wisconsin,198.133.224.147,us-central1-a,us-central1
+11087,planetlab1.unl.edu,139,University of Nebraska - Lincoln,129.93.229.138,us-central1-b,us-central1
+11088,planetlab2.unl.edu,139,University of Nebraska - Lincoln,129.93.229.139,us-central1-c,us-central1
+11089,planetlab3.comp.nus.edu.sg,189,National University of Singapore,137.132.80.110,asia-east1-b,asia-east
+11090,planetlab1.utdallas.edu,10247,University of Texas Dallas - Computer Science,129.110.125.51,us-central1-c,us-central1
+11091,planetlab2.utdallas.edu,10247,University of Texas Dallas - Computer Science,129.110.125.52,us-central1-f,us-central1
+11101,plab4.eece.ksu.edu,10141,Kansas State University,129.130.252.141,us-central1-c,us-central1
+11105,planetlab4.postel.org,18,"University of Southern California, ISI",206.117.37.7,us-central1-a,us-central1
+11106,plab3.eece.ksu.edu,10141,Kansas State University,129.130.252.140,us-central1-c,us-central1
+11372,planetlab-01.vt.nodes.planet-lab.org,10208,Virginia Tech,198.82.160.238,us-central1-a,us-central1
+11373,planetlab-02.vt.nodes.planet-lab.org,10208,Virginia Tech,198.82.160.239,us-central1-c,us-central1
+11403,planetlab1.cs.ucla.edu,31,University of California at Los Angeles,131.179.150.70,us-central1-a,us-central1
+11404,planetlab2.cs.ucla.edu,31,University of California at Los Angeles,131.179.150.72,us-central1-b,us-central1
+11462,vn4.cse.wustl.edu,20,Washington University in St Louis,128.252.19.19,us-central1-b,us-central1
+11484,planetlab-4.eecs.cwru.edu,10001,Case Western Reserve University,129.22.150.29,unknown,unknown
+11485,planetlab-5.eecs.cwru.edu,10001,Case Western Reserve University,129.22.150.78,us-central1-f,us-central1
+11486,planetlab3.cnds.jhu.edu,81,Johns Hopkins CNDS,128.220.231.4,us-central1-b,us-central1
+11487,planetlab4.cnds.jhu.edu,81,Johns Hopkins CNDS,128.220.231.5,unknown,unknown
+11498,pl-node-0.csl.sri.com,10323,SRI International,192.12.33.100,us-central1-c,us-central1
+11499,pl-node-1.csl.sri.com,10323,SRI International,192.12.33.102,us-central1-b,us-central1
+11511,pli1-pa-6.hpl.hp.com,79,HP Labs,204.123.28.57,us-central1-b,us-central1
+13056,planetlab1.pjwstk.edu.pl,11358,Polish-Japanese Institute of Information Technology (PJIIT),148.81.140.193,unknown,unknown
+13077,planetlab01.dis.unina.it,11345,Universita di Napoli Federico II,143.225.229.236,europe-west1-b,europe-west
+13078,planetlab1.s3.kth.se,11368,"KTH, Royal Institute of Technology, EE",130.237.50.124,unknown,unknown
+13081,host4-plb.loria.fr,11356,INRIA Nancy - Grand Est,152.81.47.5,unknown,unknown
+13085,onelab1.info.ucl.ac.be,11348,Universite Catholique de Louvain,130.104.72.200,europe-west1-c,europe-west
+13086,onelab2.info.ucl.ac.be,11348,Universite Catholique de Louvain,130.104.72.201,europe-west1-c,europe-west
+13092,planetlab-1.fhi-fokus.de,11360,Fraunhofer FOKUS - Research Institute for Open Communication Systems,193.175.135.58,europe-west1-c,europe-west
+13093,planetlab-2.fhi-fokus.de,11360,Fraunhofer FOKUS - Research Institute for Open Communication Systems,193.175.135.59,europe-west1-c,europe-west
+13101,gschembra3.diit.unict.it,11354,University of Catania - Computer Science and Telecommunications Engineering,151.97.9.224,europe-west1-c,europe-west
+13104,onelab3.warsaw.rd.tp.pl,11346,Orange Labs Warsaw,195.116.53.23,unknown,unknown
+13106,planetlab2.s3.kth.se,11368,"KTH, Royal Institute of Technology, EE",130.237.50.125,europe-west1-d,europe-west
+13107,planetlab02.dis.unina.it,11345,Universita di Napoli Federico II,143.225.229.238,unknown,unknown
+13113,planet1.elte.hu,11383,Eotvos Lorand University,157.181.175.249,europe-west1-b,europe-west
+13116,vn5.cse.wustl.edu,20,Washington University in St Louis,128.252.19.18,us-central1-a,us-central1
+13134,planet-lab1.itba.edu.ar,11387,Instituto Tecnologico Buenos Aires,190.227.163.142,unknown,unknown
+13144,planetlab1.utt.fr,11377,Troyes University of Technology,194.254.215.11,europe-west1-c,europe-west
+13149,planetlab-1.calpoly-netlab.net,11389,Cal Poly State University SLO,208.94.63.193,us-central1-b,us-central1
+13150,planetlab-2.calpoly-netlab.net,11389,Cal Poly State University SLO,208.94.63.194,us-central1-a,us-central1
+13153,utet.ii.uam.es,11366,Escuela Politecnica Superior,150.244.58.161,unknown,unknown
+13154,planetlabeu-1.tssg.org,11378,Waterford Institute of Technology,193.1.201.26,europe-west1-b,europe-west
+13157,planet-lab1.uba.ar,10280,Universidad de Buenos Aires,157.92.44.101,us-central1-b,us-central1
+13158,planet-lab2.itba.edu.ar,11387,Instituto Tecnologico Buenos Aires,190.227.163.141,unknown,unknown
+13159,ops.ii.uam.es,11366,Escuela Politecnica Superior,150.244.58.159,europe-west1-c,europe-west
+13165,plink.cs.uwaterloo.ca,11393,University of Waterloo,129.97.74.12,us-central1-f,us-central1
+13166,plonk.cs.uwaterloo.ca,11393,University of Waterloo,129.97.74.14,us-central1-c,us-central1
+13168,planetlab2.c3sl.ufpr.br,11394,C3SL - Centro de Computacao Cientifica e Software Livre ,200.17.202.195,us-central1-a,us-central1
+13169,planetlab1.cs.otago.ac.nz,11395,University of Otago,139.80.206.132,asia-east1-a,asia-east
+13170,planetlab2.cs.otago.ac.nz,11395,University of Otago,139.80.206.133,asia-east1-a,asia-east
+13204,node1.planetlab.albany.edu,11410,"University at Albany, State University of New York",169.226.40.2,us-central1-a,us-central1
+13211,roam1.cs.ou.edu,11397,University of Oklahoma,129.15.78.30,unknown,unknown
+13215,planetlab4.goto.info.waseda.ac.jp,10185,Waseda University,133.9.81.164,asia-east1-c,asia-east
+13222,planet2.servers.ua.pt,11422,IT-Aveiro,193.137.173.218,unknown,unknown
+13265,dplanet1.uoc.edu,11408,Universitat Oberta de Catalunya,213.73.40.105,unknown,unknown
+13293,planetlab-01.cs.princeton.edu,13,Princeton,128.112.139.42,us-central1-f,us-central1
+13295,planetlab-03.cs.princeton.edu,13,Princeton,128.112.139.97,us-central1-b,us-central1
+13311,planetlab-node3.it-sudparis.eu,11381,Telecom and Management Sud Paris,157.159.226.74,unknown,unknown
+13334,pl1.rcc.uottawa.ca,10326,University of Ottawa,216.48.80.12,unknown,unknown
+13341,planck227ple.test.ibbt.be,11407,IBBT,193.191.148.227,europe-west1-b,europe-west
+13349,plab2.ple.silweb.pl,11392,"Silesian University of Technology, Insti",83.230.127.122,europe-west1-d,europe-west
+13355,ple1.ait.ac.th,11411,interlab-ait,203.159.63.249,asia-east1-b,asia-east
+13356,ple2.ait.ac.th,11411,interlab-ait,203.159.63.250,asia-east1-c,asia-east
+13357,planet1.servers.ua.pt,11422,IT-Aveiro,193.137.173.217,europe-west1-c,europe-west
+13360,planetlab6.goto.info.waseda.ac.jp,10185,Waseda University,133.9.81.166,asia-east1-b,asia-east
+13375,plab4.ple.silweb.pl,11392,"Silesian University of Technology, Insti",83.230.127.124,europe-west1-b,europe-west
+13380,planetlab2.tau.ac.il,11375,Tel-Aviv University,192.114.4.3,unknown,unknown
+13400,planetlab2.csuohio.edu,11416,Cleveland State University,137.148.16.11,us-central1-a,us-central1
+13405,planetlab1.csuohio.edu,11416,Cleveland State University,137.148.16.10,us-central1-a,us-central1
+13406,onelab3.info.ucl.ac.be,11348,Universite Catholique de Louvain,130.104.72.213,europe-west1-c,europe-west
+13409,planetlab-1.cs.uic.edu,11445,University of Illinois at Chicago,131.193.34.21,us-central1-b,us-central1
+13410,planetlab-2.cs.uic.edu,11445,University of Illinois at Chicago,131.193.34.38,us-central1-f,us-central1
+13412,plab1.create-net.org,11388,CREATE-NET International Research Center,193.206.22.133,europe-west1-d,europe-west
+13413,flow.colgate.edu,11425,Colgate University,149.43.80.22,unknown,unknown
+13419,plab2.create-net.org,11388,CREATE-NET International Research Center,193.206.22.134,europe-west1-d,europe-west
+13428,planetlab4.cs.uoregon.edu,120,University of Oregon,128.223.8.114,us-central1-b,us-central1
+13429,planetlab2.cs.uoregon.edu,120,University of Oregon,128.223.8.112,us-central1-b,us-central1
+13430,planetlab3.cs.uoregon.edu,120,University of Oregon,128.223.8.113,us-central1-a,us-central1
+13431,planetlab1.cs.uoregon.edu,120,University of Oregon,128.223.8.111,us-central1-c,us-central1
+13453,ple1.cesnet.cz,11435,Czech Educational and Scientific Network,195.113.161.13,europe-west1-b,europe-west
+13454,ple2.cesnet.cz,11435,Czech Educational and Scientific Network,195.113.161.14,europe-west1-c,europe-west
+13458,planetlab-1.sjtu.edu.cn,11457,Shanghai Jiao Tong University,202.112.28.98,asia-east1-b,asia-east
+13459,planetlab-2.sjtu.edu.cn,11457,Shanghai Jiao Tong University,202.112.28.100,asia-east1-b,asia-east
+13461,ple2.tu.koszalin.pl,11446,The Koszalin University of Technology,62.108.171.76,europe-west1-c,europe-west
+13489,ebb.colgate.edu,11425,Colgate University,149.43.80.20,us-central1-b,us-central1
+13491,planetlab-1.ing.unimo.it,11462,University of Modena and Reggio Emilia,155.185.54.249,europe-west1-b,europe-west
+13492,planetlab-2.ing.unimo.it,11462,University of Modena and Reggio Emilia,155.185.54.250,europe-west1-c,europe-west
+13498,pl1.pku.edu.cn,11433,Peking University,162.105.205.21,asia-east1-c,asia-east
+13508,planetlab-04.vt.nodes.planet-lab.org,10208,Virginia Tech,198.82.160.221,unknown,unknown
+13524,planetlab2.cs.colorado.edu,10038,University of Colorado at Boulder,128.138.207.45,us-central1-b,us-central1
+13529,planetlab5.csee.usf.edu,10107,University of South Florida (CSE),131.247.2.246,us-central1-c,us-central1
+13533,pl1.eng.monash.edu.au,11470,Monash University,130.194.252.8,asia-east1-a,asia-east
+13536,pl2.eng.monash.edu.au,11470,Monash University,130.194.252.9,asia-east1-c,asia-east
+13545,pl1.sos.info.hiroshima-cu.ac.jp,11478,Hiroshima City University - Information Science,165.242.90.128,asia-east1-c,asia-east
+13546,pl2.sos.info.hiroshima-cu.ac.jp,11478,Hiroshima City University - Information Science,165.242.90.129,asia-east1-c,asia-east
+13552,planetlab2.cs.aueb.gr,11456,Athens Univ. of Economics & Business,195.251.248.181,europe-west1-d,europe-west
+13557,ple1.dmcs.p.lodz.pl,11430,Technical University of Lodz,212.51.218.235,europe-west1-c,europe-west
+13558,ple2.dmcs.p.lodz.pl,11430,Technical University of Lodz,212.51.218.237,europe-west1-c,europe-west
+13560,planetlab1.upm.ro,11479,Petru Maior University of Targu Mures,193.226.19.30,unknown,unknown
+13565,ricepl-4.cs.rice.edu,26,Rice University,0.0.0.0,unknown,unknown
+13566,ricepl-5.cs.rice.edu,26,Rice University,128.42.142.45,us-central1-a,us-central1
+13583,pl2.pku.edu.cn,11433,Peking University,162.105.205.22,asia-east1-b,asia-east
+13604,planetlab2.informatik.uni-wuerzburg.de,11491,University of Wuerzburg,132.187.230.2,unknown,unknown
+13616,planetlab1.rd.tut.fi,11485,Tampere University of Technology,193.166.167.4,europe-west1-b,europe-west
+13623,planetlab1.ecs.vuw.ac.nz,11489,Victoria University of Wellington,130.195.4.68,asia-east1-c,asia-east
+13624,planetlab2.ecs.vuw.ac.nz,11489,Victoria University of Wellington,130.195.4.69,asia-east1-c,asia-east
+13627,plnode-03.gpolab.bbn.com,11472,BBN Technologies,192.1.249.137,us-central1-b,us-central1
+13628,plnode-04.gpolab.bbn.com,11472,BBN Technologies,192.1.249.138,us-central1-c,us-central1
+13633,planetlab3.arizona-gigapop.net,7,University of Arizona,206.207.248.38,us-central1-f,us-central1
+13637,planetlab1.cs.du.edu,11494,University of Denver,130.253.21.121,us-central1-b,us-central1
+13638,planetlab2.cs.du.edu,11494,University of Denver,0.0.0.0,unknown,unknown
+13643,planetlab2.cs.uml.edu,11498,University of Massachusetts Lowell,129.63.159.102,us-central1-c,us-central1
+13644,planetlab1.cs.uml.edu,11498,University of Massachusetts Lowell,129.63.159.101,us-central1-c,us-central1
+13645,planetlab-n1.wand.net.nz,11495,The University of Waikato,130.217.77.2,asia-east1-a,asia-east
+13646,planetlab-n2.wand.net.nz,11495,The University of Waikato,130.217.77.4,asia-east1-c,asia-east
+13649,peeramidion.irisa.fr,11501,IRISA,131.254.208.11,europe-west1-b,europe-west
+13652,planetlab2.clemson.edu,11488,Clemson University,130.127.39.153,us-central1-c,us-central1
+13653,planet-lab-node1.netgroup.uniroma2.it,11500,"Netgroup at University of Rome ""Tor Vergata""",160.80.221.37,europe-west1-d,europe-west
+13654,planetlab1.clemson.edu,11488,Clemson University,130.127.39.152,unknown,unknown
+13656,planetlab01.tkn.tu-berlin.de,11493,Technische Universitaet Berlin,130.149.49.136,europe-west1-b,europe-west
+13657,planetlab02.tkn.tu-berlin.de,11493,Technische Universitaet Berlin,130.149.49.137,europe-west1-b,europe-west
+13658,planet-lab-node2.netgroup.uniroma2.it,11500,"Netgroup at University of Rome ""Tor Vergata""",160.80.221.39,europe-west1-d,europe-west
+13662,inriarennes1.irisa.fr,11501,IRISA,131.254.208.12,europe-west1-c,europe-west
+13663,inriarennes2.irisa.fr,11501,IRISA,131.254.208.13,europe-west1-d,europe-west
+13664,pl1.6test.edu.cn,93,Tsinghua University,219.243.208.60,asia-east1-b,asia-east
+13666,pl2.6test.edu.cn,93,Tsinghua University,219.243.208.62,asia-east1-c,asia-east
+13667,planetlab3.rutgers.edu,78,Rutgers University,165.230.49.118,us-central1-a,us-central1
+13674,planetlab1.xeno.cl.cam.ac.uk,11508,University of Cambridge,128.232.103.201,europe-west1-d,europe-west
+13681,planetlab-um00.di.uminho.pt,11505,CCTC / Universidade do Minho,193.136.19.13,europe-west1-b,europe-west
+13682,planetlab-um10.di.uminho.pt,11505,CCTC / Universidade do Minho,193.136.19.29,europe-west1-d,europe-west
+13687,planetlab1.ustc.edu.cn,11453,University of Science and Technology of China,202.141.161.43,us-central1-b,us-central1
+13719,planet1.pnl.nitech.ac.jp,11512,Nagoya Institute of Technology,133.68.253.242,asia-east1-c,asia-east
+13720,planet2.pnl.nitech.ac.jp,11512,Nagoya Institute of Technology,133.68.253.243,asia-east1-b,asia-east
+13747,pl2.cs.yale.edu,11527,Yale University,128.36.233.154,us-central1-f,us-central1
+13748,pl1.cs.yale.edu,11527,Yale University,128.36.233.153,us-central1-b,us-central1
+13766,planetlab1.cnis.nyit.edu,11528,New York Institute of Technology,108.58.13.205,us-central1-f,us-central1
+13767,planetlab2.cnis.nyit.edu,11528,New York Institute of Technology,108.58.13.206,us-central1-f,us-central1
+13769,planetlab2.xeno.cl.cam.ac.uk,11508,University of Cambridge,128.232.103.202,europe-west1-c,europe-west
+13770,planetlab3.xeno.cl.cam.ac.uk,11508,University of Cambridge,128.232.103.203,europe-west1-c,europe-west
+13781,planetvs2.informatik.uni-stuttgart.de,11551,University of Stuttgart - IPVS,129.69.210.97,europe-west1-c,europe-west
+13784,mars.planetlab.haw-hamburg.de,11549,HAW Hamburg,141.22.213.35,europe-west1-b,europe-west
+13785,merkur.planetlab.haw-hamburg.de,11549,HAW Hamburg,141.22.213.34,europe-west1-c,europe-west
+13786,planetlab1.tsuniv.edu,11541,Tennessee State University,206.23.240.28,us-central1-a,us-central1
+13792,planetlab2.tsuniv.edu,11541,Tennessee State University,206.23.240.29,us-central1-c,us-central1
+13801,planetlab1.informatik.uni-erlangen.de,11581,Friedrich-Alexander University Erlangen-Nuremberg,131.188.44.100,europe-west1-b,europe-west
+13803,planetlab1.di.unito.it,11588,Dipartimento di Informatica di Torino,130.192.157.131,europe-west1-c,europe-west
+13804,planetlab2.di.unito.it,11588,Dipartimento di Informatica di Torino,130.192.157.132,unknown,unknown
+13806,planetlab3.di.unito.it,11588,Dipartimento di Informatica di Torino,130.192.157.138,unknown,unknown
+13831,planetlab-1.tagus.ist.utl.pt,11552,Instituto Superior Tecnico,193.136.166.66,europe-west1-b,europe-west
+13840,planetlab-2.tagus.ist.utl.pt,11552,Instituto Superior Tecnico,193.136.166.68,unknown,unknown
+13843,planetlab1.urv.cat,11579,Universitat Rovira i Virgili,193.144.21.130,europe-west1-c,europe-west
+13844,planetlab1.cs.uoi.gr,11577,University of Ioannina,195.130.121.204,europe-west1-c,europe-west
+13846,planetlab-3.imperial.ac.uk,11580,Imperial College London,193.63.75.20,europe-west1-b,europe-west
+13849,planetlab1.tlm.unavarra.es,11550,Universidad Publica de Navarra,130.206.158.138,europe-west1-b,europe-west
+13850,planetlab3.tamu.edu,109,Texas AM University,0.0.0.0,unknown,unknown
+13851,planetlab4.tamu.edu,109,Texas AM University,0.0.0.0,unknown,unknown
+13859,planetlab1.unineuchatel.ch,11583,University of Neuchatel,192.42.43.22,unknown,unknown
+13863,planetlab2.cs.uoi.gr,11577,University of Ioannina,195.130.121.205,europe-west1-c,europe-west
+13865,planetlab1.ci.pwr.wroc.pl,11574,Wroclaw University of Technology,156.17.10.51,europe-west1-b,europe-west
+13866,planetlab2.ci.pwr.wroc.pl,11574,Wroclaw University of Technology,156.17.10.52,europe-west1-d,europe-west
+13867,planetlab1.fct.ualg.pt,11556,Universidade do Algarve,193.136.227.163,europe-west1-d,europe-west
+13877,planetlab2.fct.ualg.pt,11556,Universidade do Algarve,193.136.227.164,europe-west1-b,europe-west
+13879,planetlab-4.imperial.ac.uk,11580,Imperial College London,193.63.75.21,europe-west1-b,europe-west
+13880,planetlab1.sics.se,11585,Swedish Institute of Computer Science,193.10.64.35,unknown,unknown
+13881,planetlab1.csg.uzh.ch,11596,"University of Zurich, Communication Systems Group",192.41.136.218,europe-west1-b,europe-west
+13882,planetlab1.cs.uit.no,11597,University of Tromso,129.242.19.196,europe-west1-b,europe-west
+13883,planetlab2.cs.uit.no,11597,University of Tromso,129.242.19.197,unknown,unknown
+13888,planetlab2.sics.se,11585,Swedish Institute of Computer Science,193.10.64.36,unknown,unknown
+13889,planetlab1.ifi.uio.no,11610,University of Oslo,193.157.115.250,unknown,unknown
+13894,planetlab2.ics.forth.gr,11586,"Inst. of Computer Science, Foundation for Research and Technology - Hellas",139.91.90.239,asia-east1-a,asia-east
+13897,planetlab1.eurecom.fr,11569,Eurecom Institute,193.55.112.40,unknown,unknown
+13903,planetlab2.ionio.gr,11511,Ionian University,195.130.124.2,unknown,unknown
+13904,iraplab1.iralab.uni-karlsruhe.de,11595,Karlsruhe Institute of Technology,193.196.39.9,europe-west1-c,europe-west
+13916,planetlab3.hiit.fi,11593,Helsinki Institute for Information Technology,193.167.187.185,europe-west1-c,europe-west
+13918,planetlab1.dit.upm.es,11539,Technical University of Madrid,138.4.0.119,europe-west1-c,europe-west
+13920,iraplab2.iralab.uni-karlsruhe.de,11595,Karlsruhe Institute of Technology,193.196.39.10,europe-west1-d,europe-west
+13933,vicky.planetlab.ntua.gr,11608,Network Management & Optimal Design Laboratory - National Technical University of Athens,147.102.224.227,europe-west1-b,europe-west
+13934,stella.planetlab.ntua.gr,11608,Network Management & Optimal Design Laboratory - National Technical University of Athens,147.102.224.228,europe-west1-b,europe-west
+13935,planetlab1.informatik.uni-goettingen.de,11562,University of Goettingen,134.76.249.229,europe-west1-c,europe-west
+13936,planetlab4.hiit.fi,11593,Helsinki Institute for Information Technology,193.167.187.186,europe-west1-c,europe-west
+13939,planetlab-1.research.netlab.hut.fi,11509,Aalto University Comnet,195.148.124.73,europe-west1-d,europe-west
+13940,planetlab-2.research.netlab.hut.fi,11509,Aalto University Comnet,195.148.124.74,europe-west1-c,europe-west
+13946,saturn.planetlab.carleton.ca,11622,Carleton University,134.117.226.180,us-central1-c,us-central1
+13959,planetlab3.bupt.edu.cn,11515,Beijing University of Posts and Telecommunications,211.68.70.40,asia-east1-b,asia-east
+13963,planetlab-2.man.poznan.pl,11499,Poznan Supercomputing and Networking Center,150.254.212.148,europe-west1-b,europe-west
+13977,planetlab1.tmit.bme.hu,11560,Budapest University of Technology and Economics,152.66.245.161,europe-west1-c,europe-west
+13994,planetlab1.mta.ac.il,11543,Tel Aviv Yaffo College,212.199.61.203,europe-west1-b,europe-west
+14036,planetlab-3.cs.ucy.ac.cy,11566,University of Cyprus,0.0.0.0,unknown,unknown
+14038,planetlab1.cti.espol.edu.ec,11522,ESPOL University,200.10.150.252,us-central1-b,us-central1
+14039,planetlab2.cti.espol.edu.ec,11522,ESPOL University,200.10.150.253,us-central1-b,us-central1
+14040,75-130-96-12.static.oxfr.ma.charter.com,10176,Worcester Polytechnic Institute,75.130.96.12,us-central1-b,us-central1
+14043,75-130-96-13.static.oxfr.ma.charter.com,10176,Worcester Polytechnic Institute,75.130.96.13,us-central1-b,us-central1
+14046,planetlab2.cqupt.edu.cn,11631,Chongqing University of Posts and Telecommunications,202.202.43.199,asia-east1-a,asia-east
+14047,planetlab1.cqupt.edu.cn,11631,Chongqing University of Posts and Telecommunications,202.202.43.198,asia-east1-a,asia-east
+14059,roti.mimuw.edu.pl,11621,University of Warsaw,193.0.109.23,unknown,unknown
+14060,prata.mimuw.edu.pl,11621,University of Warsaw,193.0.109.25,europe-west1-c,europe-west
+14064,planetlab2.wiwi.hu-berlin.de,11648,Humboldt-Universitaet zu Berlin - IWI,141.20.103.211,europe-west1-c,europe-west
+14065,planetlab1.u-strasbg.fr,11641,Universite de Strasbourg,130.79.48.55,europe-west1-c,europe-west
+14069,pl1.bell-labs.fr,11414,Alcatel-Lucent Villarceaux,159.217.144.110,europe-west1-c,europe-west
+14070,pl2.bell-labs.fr,11414,Alcatel-Lucent Villarceaux,159.217.144.112,europe-west1-d,europe-west
+14075,plab1.cs.msu.ru,89,Moscow State University,188.44.50.106,europe-west1-c,europe-west
+14076,plab3.cs.msu.ru,89,Moscow State University,93.180.19.232,europe-west1-c,europe-west
+14079,pl2.zju.edu.cn,11540,Zhejiang University ,210.32.181.184,unknown,unknown
+14096,planetlab2.eecs.jacobs-university.de,11650,Jacobs University Bremen,212.201.44.82,europe-west1-c,europe-west
+14100,planetlab1.cs.okstate.edu,11660,Oklahoma State University,139.78.141.243,us-central1-b,us-central1
+14101,planetlab2.cs.okstate.edu,11660,Oklahoma State University,139.78.141.245,unknown,unknown
+14120,planetlab2.diku.dk,11533,"University of Copenhagen, DIKU",192.38.109.144,europe-west1-c,europe-west
+14121,planetlab1.temple.edu,11623,Temple University,129.32.84.160,us-central1-b,us-central1
+14122,planetlab2.temple.edu,11623,Temple University,129.32.84.161,us-central1-f,us-central1
+14129,planetlab-js1.cert.org.cn,11664,National Computer Network Emergency Response Technical Team/Coodination Center of China,218.94.106.112,asia-east1-a,asia-east
+14131,planetlab-4.cs.ucy.ac.cy,11566,University of Cyprus,194.42.17.124,unknown,unknown
+14137,planetlab-1.cs.ucy.ac.cy,11566,University of Cyprus,194.42.17.123,unknown,unknown
+14143,planetlab1.upc.es,11670,Universitat Politecnica de Catalunya,147.83.30.166,europe-west1-b,europe-west
+14144,planetlab2.upc.es,11670,Universitat Politecnica de Catalunya,147.83.30.167,europe-west1-c,europe-west
+14145,planetlab3.upc.es,11670,Universitat Politecnica de Catalunya,147.83.30.164,europe-west1-c,europe-west
+14154,planetlab-13.e5.ijs.si,11669,Jozef Stefan Institute,193.138.2.13,unknown,unknown
+14166,pl2.cs.unm.edu,112,University of New Mexico,198.83.85.45,us-central1-b,us-central1
+14167,pl3.cs.unm.edu,112,University of New Mexico,198.83.85.46,us-central1-c,us-central1
+14168,pl4.cs.unm.edu,112,University of New Mexico,198.83.85.47,us-central1-c,us-central1
+14169,pl1.cs.montana.edu,11672,Montana State University,153.90.1.34,us-central1-f,us-central1
+14170,pl2.cs.montana.edu,11672,Montana State University,153.90.1.35,us-central1-a,us-central1
+14171,planetlab-1.ida.liu.se,11645,Linkoping University - IDA,192.36.94.2,unknown,unknown
+14172,planetlab-2.ida.liu.se,11645,Linkoping University - IDA,192.36.94.3,unknown,unknown
+14173,planetlab1.mini.pw.edu.pl,11349,Warsaw University of Technology Europe,194.29.178.5,europe-west1-c,europe-west
+14174,planetlab2.mini.pw.edu.pl,11349,Warsaw University of Technology Europe,194.29.178.6,unknown,unknown
+14178,planetlab02.alucloud.com,11643,Alcatel-Lucent Indy Hill Site,135.109.221.104,unknown,unknown
+14179,planetlab01.alucloud.com,11643,Alcatel-Lucent Indy Hill Site,135.109.221.103,unknown,unknown
+14193,planetlab1.extern.kuleuven.be,11676,KU Leuven,193.190.168.49,europe-west1-c,europe-west
+14194,planetlab2.extern.kuleuven.be,11676,KU Leuven,193.190.168.51,europe-west1-c,europe-west
+14202,planetlab2.jcp-consult.net,11675,JCP-Consult,80.65.237.11,unknown,unknown
+14212,onelab4.warsaw.rd.tp.pl,11349,Warsaw University of Technology Europe,195.116.53.24,unknown,unknown
+14219,planet-plc-1.mpi-sws.org,10098,Max Planck Institute for Software Systems,139.19.158.225,europe-west1-c,europe-west
+14220,planet-plc-2.mpi-sws.org,10098,Max Planck Institute for Software Systems,139.19.158.227,europe-west1-b,europe-west
+14231,planetlab2.urv.cat,11579,Universitat Rovira i Virgili,193.144.21.131,unknown,unknown
+14248,planetlab-coffee.ait.ie,11686,Athlone Institute of Technology,193.1.13.12,europe-west1-c,europe-west
+14249,planetlab-tea.ait.ie,11686,Athlone Institute of Technology,193.1.13.14,europe-west1-c,europe-west
+14250,planet-lab3.uba.ar,10280,Universidad de Buenos Aires,157.92.44.103,us-central1-b,us-central1
+14251,planet-lab4.uba.ar,10280,Universidad de Buenos Aires,157.92.44.104,us-central1-b,us-central1
+14263,aguila1.lsi.upc.edu,11670,Universitat Politecnica de Catalunya,147.83.29.232,europe-west1-b,europe-west
+14264,aguila2.lsi.upc.edu,11670,Universitat Politecnica de Catalunya,147.83.29.234,europe-west1-d,europe-west
+14267,planetlab1.virtues.fi,11691,Centre for Wireless Communications,85.23.168.76,europe-west1-c,europe-west
+14268,planetlab2.virtues.fi,11691,Centre for Wireless Communications,85.23.168.77,europe-west1-b,europe-west
+14272,planetlab1.unr.edu,11415,"University of Nevada, Reno",134.197.113.3,us-central1-b,us-central1
+14273,planetlab2.unr.edu,11415,"University of Nevada, Reno",134.197.113.4,us-central1-a,us-central1
+14285,planetvs1.informatik.uni-stuttgart.de,11551,University of Stuttgart - IPVS,129.69.210.96,europe-west1-b,europe-west
+14293,planetlab1.nrl.eecs.qmul.ac.uk,11605,"Queen Mary, University of London",194.36.10.160,europe-west1-c,europe-west
+14295,planetlab2.nrl.eecs.qmul.ac.uk,11605,"Queen Mary, University of London",194.36.10.161,europe-west1-d,europe-west
+14354,planetlab-2.scie.uestc.edu.cn,11612,University of Electronic Science and Technology of China,222.197.180.139,asia-east1-a,asia-east
+14356,planetlab-1.scie.uestc.edu.cn,11612,University of Electronic Science and Technology of China,222.197.180.137,asia-east1-a,asia-east
+14416,empusa.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.96,europe-west1-b,europe-west
+14417,ampelos.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.92,unknown,unknown
+14418,sybaris.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.99,europe-west1-d,europe-west
+14419,plewifi.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.118,europe-west1-c,europe-west
+14420,ple6.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.124,europe-west1-b,europe-west
+14422,ple2.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.120,europe-west1-b,europe-west
+14423,ple3.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,0.0.0.0,unknown,unknown
+14424,ple4.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.122,europe-west1-b,europe-west
+14425,anateus.ipv6.lip6.fr,11737,Universite Pierre et Marie Curie,132.227.62.85,europe-west1-d,europe-west
+14439,pl1.tailab.eu,11367,Thales Communications & Security,194.79.147.164,europe-west1-c,europe-west
+14440,pl2.tailab.eu,11367,Thales Communications & Security,194.79.147.165,europe-west1-d,europe-west
+14450,planetlab1.koganei.itrc.net,113,NICT,133.69.32.131,asia-east1-a,asia-east
+14451,planetlab2.koganei.itrc.net,113,NICT,133.69.32.133,asia-east1-c,asia-east
+14454,planetlab2.informatik.uni-erlangen.de,11581,Friedrich-Alexander University Erlangen-Nuremberg,131.188.44.102,europe-west1-b,europe-west
+14455,planetlab3.cesnet.cz,10151,CESNET - Czech Education and Research Network,195.113.161.84,europe-west1-b,europe-west
+14478,planetlab3.georgetown.edu,10044,Georgetown University,209.148.46.135,unknown,unknown
+14479,planetlab4.georgetown.edu,10044,Georgetown University,209.148.46.136,unknown,unknown
+14511,pli1-pa-1.hpl.hp.com,116,HP Labs,204.123.28.51,us-central1-c,us-central1
+14512,pli1-pa-2.hpl.hp.com,116,HP Labs,204.123.28.52,us-central1-b,us-central1
+14513,pli1-pa-3.hpl.hp.com,116,HP Labs,204.123.28.53,us-central1-b,us-central1
+14518,planetlab1.net.in.tum.de,11599,Technische Universitaet Muenchen,138.246.253.1,europe-west1-c,europe-west
+14526,planetlab3.net.in.tum.de,11599,Technische Universitaet Muenchen,138.246.253.3,europe-west1-d,europe-west
+14625,planetlab-js2.cert.org.cn,11664,National Computer Network Emergency Response Technical Team/Coodination Center of China,218.94.106.114,asia-east1-c,asia-east
+14627,host3.planetlab.informatik.tu-darmstadt.de,11598,Technische Universitat Darmstadt,130.83.166.247,unknown,unknown
+14628,node1.planetlab.uni-luebeck.de,11804,University of Luebeck - ITM,141.83.148.101,europe-west1-b,europe-west
+14629,node2.planetlab.uni-luebeck.de,11804,University of Luebeck - ITM,141.83.148.102,europe-west1-d,europe-west
+14630,host1.planetlab.informatik.tu-darmstadt.de,11598,Technische Universitat Darmstadt,130.83.166.243,europe-west1-d,europe-west
+14672,planetlab3.informatik.uni-erlangen.de,11581,Friedrich-Alexander University Erlangen-Nuremberg,131.188.44.102,unknown,unknown
+14675,icnalplabs1.epfl.ch,11814,Ãcole Polytechnique FÃ©dÃ©rale de Lausanne,192.33.193.16,europe-west1-c,europe-west
+14676,icnalplabs2.epfl.ch,11814,Ãcole Polytechnique FÃ©dÃ©rale de Lausanne,192.33.193.18,europe-west1-c,europe-west
+14682,host2.planetlab.informatik.tu-darmstadt.de,11598,Technische Universitat Darmstadt,130.83.166.245,europe-west1-c,europe-west
+14683,host4.planetlab.informatik.tu-darmstadt.de,11598,Technische Universitat Darmstadt,130.83.166.249,unknown,unknown
+14691,planetlab1.informatik.uni-kl.de,11594,"University of Kaiserslautern, Germany",131.246.19.201,europe-west1-c,europe-west
+14692,planetlab2.informatik.uni-kl.de,11594,"University of Kaiserslautern, Germany",131.246.19.202,europe-west1-d,europe-west

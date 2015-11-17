@@ -1,0 +1,4952 @@
+{
+    "1446577201": {
+        "Buffer": 4.900266885757446, 
+        "ChunkID": "0", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 0.09968018531799316, 
+        "User": "75-130-96-12.static.oxfr.ma.charter.com"
+    }, 
+    "1446577202": {
+        "Buffer": 4.9025139808654785, 
+        "ChunkID": "0", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 0.09741401672363281, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577203": {
+        "Buffer": 4.897154092788696, 
+        "ChunkID": "0", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 0.10278201103210449, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577204": {
+        "Buffer": 13.284018993377686, 
+        "ChunkID": "2", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6701982021331787, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577205": {
+        "Buffer": 17.883219003677368, 
+        "ChunkID": "3", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.40073704719543457, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577206": {
+        "Buffer": 21.50518798828125, 
+        "ChunkID": "4", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.3779652118682861, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577207": {
+        "Buffer": 25.225948095321655, 
+        "ChunkID": "5", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.2791728973388672, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577208": {
+        "Buffer": 14.520982027053833, 
+        "ChunkID": "3", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.688060998916626, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577209": {
+        "Buffer": 29.022495985031128, 
+        "ChunkID": "6", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.9771230220794678, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577210": {
+        "Buffer": 27.087283849716187, 
+        "ChunkID": "6", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.0268540382385254, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577211": {
+        "Buffer": 14.60299015045166, 
+        "ChunkID": "3", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.5250680446624756, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577212": {
+        "Buffer": 19.88252282142639, 
+        "ChunkID": "5", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.7062702178955078, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577213": {
+        "Buffer": 29.563493013381958, 
+        "ChunkID": "7", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.43270111083984375, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577214": {
+        "Buffer": 20.83312487602234, 
+        "ChunkID": "5", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.750725030899048, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577215": {
+        "Buffer": 16.254875898361206, 
+        "ChunkID": "5", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.8937110900878906, 
+        "User": "75-130-96-12.static.oxfr.ma.charter.com"
+    }, 
+    "1446577216": {
+        "Buffer": 29.236155033111572, 
+        "ChunkID": "7", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.761476993560791, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577217": {
+        "Buffer": 28.499404907226562, 
+        "ChunkID": "7", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.8243200778961182, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577218": {
+        "Buffer": 29.44721508026123, 
+        "ChunkID": "8", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.5489459037780762, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577219": {
+        "Buffer": 18.627848148345947, 
+        "ChunkID": "6", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.396984815597534, 
+        "User": "planetlabtwo.ccs.neu.edu"
+    }, 
+    "1446577220": {
+        "Buffer": 23.245359897613525, 
+        "ChunkID": "7", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 1.4520080089569092, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577221": {
+        "Buffer": 29.249207019805908, 
+        "ChunkID": "8", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.7473001480102539, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577222": {
+        "Buffer": 29.169103860855103, 
+        "ChunkID": "9", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.8305330276489258, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577223": {
+        "Buffer": 28.861616134643555, 
+        "ChunkID": "9", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.1338129043579102, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577224": {
+        "Buffer": 29.020737171173096, 
+        "ChunkID": "9", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.9754409790039062, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577225": {
+        "Buffer": 27.35924005508423, 
+        "ChunkID": "9", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.6389119625091553, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577226": {
+        "Buffer": 28.946574926376343, 
+        "ChunkID": "8", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.0487911701202393, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577227": {
+        "Buffer": 26.236138820648193, 
+        "ChunkID": "9", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.7631020545959473, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577228": {
+        "Buffer": 28.59325385093689, 
+        "ChunkID": "10", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4041941165924072, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577229": {
+        "Buffer": 27.675594091415405, 
+        "ChunkID": "10", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.320702075958252, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577230": {
+        "Buffer": 27.34669589996338, 
+        "ChunkID": "10", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.651461124420166, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577232": {
+        "Buffer": 29.47923994064331, 
+        "ChunkID": "11", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.5172679424285889, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577233": {
+        "Buffer": 29.27679705619812, 
+        "ChunkID": "11", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.7196199893951416, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577234": {
+        "Buffer": 28.219648122787476, 
+        "ChunkID": "11", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.7780508995056152, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577236": {
+        "Buffer": 26.881116151809692, 
+        "ChunkID": "11", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.394115924835205, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577237": {
+        "Buffer": 29.29896378517151, 
+        "ChunkID": "12", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6967191696166992, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577238": {
+        "Buffer": 29.20964479446411, 
+        "ChunkID": "12", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.7858622074127197, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577239": {
+        "Buffer": 28.558910131454468, 
+        "ChunkID": "12", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.438978910446167, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577242": {
+        "Buffer": 7.8223488330841064, 
+        "ChunkID": "8", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 5.487955093383789, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577243": {
+        "Buffer": 28.837318181991577, 
+        "ChunkID": "13", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.1589789390563965, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577244": {
+        "Buffer": 28.517637968063354, 
+        "ChunkID": "13", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4784770011901855, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577245": {
+        "Buffer": 26.967119932174683, 
+        "ChunkID": "13", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.0297930240631104, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577246": {
+        "Buffer": 26.91906499862671, 
+        "ChunkID": "13", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.077533006668091, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577247": {
+        "Buffer": 29.813329935073853, 
+        "ChunkID": "14", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.1823899745941162, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577248": {
+        "Buffer": 29.325140953063965, 
+        "ChunkID": "14", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6722428798675537, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577249": {
+        "Buffer": 3.8815009593963623, 
+        "ChunkID": "5", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 7.368746042251587, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577250": {
+        "Buffer": 26.90607190132141, 
+        "ChunkID": "14", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.0922391414642334, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577251": {
+        "Buffer": 26.612195014953613, 
+        "ChunkID": "14", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.3856019973754883, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577253": {
+        "Buffer": 28.760501861572266, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.235882043838501, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577254": {
+        "Buffer": 27.956233024597168, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.040217161178589, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577255": {
+        "Buffer": 27.11156988143921, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.8845980167388916, 
+        "User": "planet2.cc.gt.atl.ga.us"
+    }, 
+    "1446577256": {
+        "Buffer": 26.43447208404541, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.5620198249816895, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577257": {
+        "Buffer": 29.481493949890137, 
+        "ChunkID": "16", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.5163569450378418, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577258": {
+        "Buffer": 28.577980041503906, 
+        "ChunkID": "16", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4209809303283691, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577259": {
+        "Buffer": 22.747365951538086, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 7.251542091369629, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577260": {
+        "Buffer": 22.470722913742065, 
+        "ChunkID": "15", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.527285099029541, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577261": {
+        "Buffer": 25.762234926223755, 
+        "ChunkID": "16", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.6529030799865723, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577262": {
+        "Buffer": 29.59509301185608, 
+        "ChunkID": "17", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.40022802352905273, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577263": {
+        "Buffer": 28.6532781124115, 
+        "ChunkID": "17", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.344369888305664, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577265": {
+        "Buffer": 21.316452026367188, 
+        "ChunkID": "16", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 6.4308600425720215, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577267": {
+        "Buffer": 24.35290002822876, 
+        "ChunkID": "17", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 1.9634959697723389, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577268": {
+        "Buffer": 28.690531015396118, 
+        "ChunkID": "18", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 1.3055980205535889, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577269": {
+        "Buffer": 27.882208108901978, 
+        "ChunkID": "18", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 1.4706380367279053, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577272": {
+        "Buffer": 29.517891883850098, 
+        "ChunkID": "19", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.4776320457458496, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577273": {
+        "Buffer": 28.603184938430786, 
+        "ChunkID": "19", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.3961451053619385, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577274": {
+        "Buffer": 21.49897289276123, 
+        "ChunkID": "17", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 0.8629992008209229, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577275": {
+        "Buffer": 25.461030960083008, 
+        "ChunkID": "18", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.0377609729766846, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577276": {
+        "Buffer": 29.111327171325684, 
+        "ChunkID": "19", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.8844389915466309, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577277": {
+        "Buffer": 29.326080799102783, 
+        "ChunkID": "20", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6698651313781738, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577279": {
+        "Buffer": 26.84586191177368, 
+        "ChunkID": "19", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.1533641815185547, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577280": {
+        "Buffer": 27.073034048080444, 
+        "ChunkID": "20", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.9230141639709473, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577281": {
+        "Buffer": 28.594697952270508, 
+        "ChunkID": "20", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4006290435791016, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577282": {
+        "Buffer": 28.50635814666748, 
+        "ChunkID": "20", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4893429279327393, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577284": {
+        "Buffer": 26.81333088874817, 
+        "ChunkID": "20", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.184575080871582, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577286": {
+        "Buffer": 25.875725030899048, 
+        "ChunkID": "21", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.121288061141968, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577287": {
+        "Buffer": 25.294851064682007, 
+        "ChunkID": "21", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.702741861343384, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577288": {
+        "Buffer": 0, 
+        "ChunkID": "2", 
+        "Freezing": 13.028433084487915, 
+        "QoE": 0.2361721724536203, 
+        "Representation": "1", 
+        "Response": 19.897456169128418, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577290": {
+        "Buffer": 26.978314876556396, 
+        "ChunkID": "22", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 2.215111017227173, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577291": {
+        "Buffer": 24.362310886383057, 
+        "ChunkID": "21", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 5.6355860233306885, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577293": {
+        "Buffer": 28.21846604347229, 
+        "ChunkID": "22", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.1436710357666016, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577295": {
+        "Buffer": 0, 
+        "ChunkID": "3", 
+        "Freezing": 1.812741994857788, 
+        "QoE": 0.669146087647087, 
+        "Representation": "1", 
+        "Response": 6.812572956085205, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577297": {
+        "Buffer": 23.254381895065308, 
+        "ChunkID": "22", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.742539167404175, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577298": {
+        "Buffer": 23.059988975524902, 
+        "ChunkID": "23", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 6.578447103500366, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577299": {
+        "Buffer": 18.47398018836975, 
+        "ChunkID": "22", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 11.523346900939941, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577300": {
+        "Buffer": 26.7883780002594, 
+        "ChunkID": "24", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6423921585083008, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577301": {
+        "Buffer": 20.787853002548218, 
+        "ChunkID": "23", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 9.211769819259644, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577302": {
+        "Buffer": 24.387310028076172, 
+        "ChunkID": "24", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 0.9597609043121338, 
+        "User": "planetlab-01.vt.nodes.planet-lab.org"
+    }, 
+    "1446577303": {
+        "Buffer": 18.58337092399597, 
+        "ChunkID": "23", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 11.41513705253601, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577305": {
+        "Buffer": 25.458564043045044, 
+        "ChunkID": "24", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 4.539630889892578, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577306": {
+        "Buffer": 24.950226068496704, 
+        "ChunkID": "25", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 1.0689918994903564, 
+        "User": "75-130-96-12.static.oxfr.ma.charter.com"
+    }, 
+    "1446577307": {
+        "Buffer": 25.431732177734375, 
+        "ChunkID": "25", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.566442012786865, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577308": {
+        "Buffer": 24.138070821762085, 
+        "ChunkID": "25", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.861437082290649, 
+        "User": "planetlab1.acis.ufl.edu"
+    }, 
+    "1446577309": {
+        "Buffer": 26.605621099472046, 
+        "ChunkID": "25", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.393594980239868, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577310": {
+        "Buffer": 21.686074018478394, 
+        "ChunkID": "25", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 8.297463178634644, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577311": {
+        "Buffer": 25.88284397125244, 
+        "ChunkID": "26", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.4127919673919678, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577312": {
+        "Buffer": 24.507917881011963, 
+        "ChunkID": "26", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 2.1114420890808105, 
+        "User": "planetlab-04.vt.nodes.planet-lab.org"
+    }, 
+    "1446577314": {
+        "Buffer": 26.455965995788574, 
+        "ChunkID": "26", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.541029930114746, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577315": {
+        "Buffer": 27.71073007583618, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.4071800708770752, 
+        "User": "75-130-96-13.static.oxfr.ma.charter.com"
+    }, 
+    "1446577316": {
+        "Buffer": 20.260773181915283, 
+        "ChunkID": "26", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 5.402519941329956, 
+        "User": "saturn.planetlab.carleton.ca"
+    }, 
+    "1446577317": {
+        "Buffer": 25.671189069747925, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 4.328702926635742, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577318": {
+        "Buffer": 24.479899883270264, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 0.8490190505981445, 
+        "User": "planetlab1.acis.ufl.edu"
+    }, 
+    "1446577320": {
+        "Buffer": 27.52494716644287, 
+        "ChunkID": "28", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.3081510066986084, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577321": {
+        "Buffer": 20.759179830551147, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.330372095108032, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577322": {
+        "Buffer": 25.400166034698486, 
+        "ChunkID": "28", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.6400001049041748, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577323": {
+        "Buffer": 29.41173815727234, 
+        "ChunkID": "29", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 0.5867059230804443, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577324": {
+        "Buffer": 16.933542013168335, 
+        "ChunkID": "26", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 13.044538974761963, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577325": {
+        "Buffer": 27.441593170166016, 
+        "ChunkID": "29", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.556591033935547, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577326": {
+        "Buffer": 19.92288899421692, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 2.010517120361328, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577327": {
+        "Buffer": 24.713211059570312, 
+        "ChunkID": "29", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.284780025482178, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577328": {
+        "Buffer": 0, 
+        "ChunkID": "22", 
+        "Freezing": 2.296570062637329, 
+        "QoE": 0.6189586364737045, 
+        "Representation": "1", 
+        "Response": 7.296390056610107, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577329": {
+        "Buffer": 27.877156972885132, 
+        "ChunkID": "30", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.1213510036468506, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577330": {
+        "Buffer": 26.02688193321228, 
+        "ChunkID": "30", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 3.9714441299438477, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577331": {
+        "Buffer": 25.857906103134155, 
+        "ChunkID": "30", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 4.1402459144592285, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577332": {
+        "Buffer": 28.656054973602295, 
+        "ChunkID": "29", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.3400719165802002, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577333": {
+        "Buffer": 28.601675033569336, 
+        "ChunkID": "31", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.397320032119751, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577335": {
+        "Buffer": 26.65392780303955, 
+        "ChunkID": "31", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.3452341556549072, 
+        "User": "planet2.cc.gt.atl.ga.us"
+    }, 
+    "1446577336": {
+        "Buffer": 26.33556890487671, 
+        "ChunkID": "31", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.661755084991455, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577337": {
+        "Buffer": 28.458094120025635, 
+        "ChunkID": "31", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.5392329692840576, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577338": {
+        "Buffer": 23.456284999847412, 
+        "ChunkID": "31", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.5410988330841064, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577340": {
+        "Buffer": 26.60831594467163, 
+        "ChunkID": "32", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.389343023300171, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577341": {
+        "Buffer": 26.547959089279175, 
+        "ChunkID": "32", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.4463729858398438, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577342": {
+        "Buffer": 24.93022894859314, 
+        "ChunkID": "32", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.525984048843384, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577344": {
+        "Buffer": 27.702053785324097, 
+        "ChunkID": "33", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.2961201667785645, 
+        "User": "planet2.cc.gt.atl.ga.us"
+    }, 
+    "1446577345": {
+        "Buffer": 26.940961837768555, 
+        "ChunkID": "33", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.057307004928589, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577346": {
+        "Buffer": 25.644124031066895, 
+        "ChunkID": "33", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 4.3550310134887695, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577347": {
+        "Buffer": 24.82663607597351, 
+        "ChunkID": "33", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.171812057495117, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577349": {
+        "Buffer": 28.143749952316284, 
+        "ChunkID": "34", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.3772752285003662, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577350": {
+        "Buffer": 26.666756868362427, 
+        "ChunkID": "34", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.3310720920562744, 
+        "User": "ebb.colgate.edu"
+    }, 
+    "1446577351": {
+        "Buffer": 26.34034299850464, 
+        "ChunkID": "34", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.6581921577453613, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577352": {
+        "Buffer": 29.702901124954224, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.295029878616333, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577353": {
+        "Buffer": 27.287583112716675, 
+        "ChunkID": "34", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 0.5193400382995605, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577354": {
+        "Buffer": 28.093269109725952, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.9028739929199219, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577355": {
+        "Buffer": 0, 
+        "ChunkID": "19", 
+        "Freezing": 5.102264881134033, 
+        "QoE": 0.43888345240738924, 
+        "Representation": "1", 
+        "Response": 10.102121829986572, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577356": {
+        "Buffer": 25.816931009292603, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 4.178931951522827, 
+        "User": "node1.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577357": {
+        "Buffer": 3.0213091373443604, 
+        "ChunkID": "27", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 1.9785518646240234, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577358": {
+        "Buffer": 23.86655902862549, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 6.130502939224243, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577359": {
+        "Buffer": 22.606970071792603, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.390685796737671, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577361": {
+        "Buffer": 25.680742025375366, 
+        "ChunkID": "36", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 4.3163981437683105, 
+        "User": "node2.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577362": {
+        "Buffer": 24.976233959197998, 
+        "ChunkID": "36", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.013188123703003, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577363": {
+        "Buffer": 24.300292015075684, 
+        "ChunkID": "36", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.694821119308472, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577364": {
+        "Buffer": 21.74409008026123, 
+        "ChunkID": "35", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 8.25348711013794, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577365": {
+        "Buffer": 22.020029067993164, 
+        "ChunkID": "36", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.97773289680481, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577366": {
+        "Buffer": 25.769824981689453, 
+        "ChunkID": "37", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.828685998916626, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577367": {
+        "Buffer": 25.166001081466675, 
+        "ChunkID": "37", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.6396238803863525, 
+        "User": "planetlab-5.eecs.cwru.edu"
+    }, 
+    "1446577368": {
+        "Buffer": 19.95841908454895, 
+        "ChunkID": "36", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 7.132638931274414, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577369": {
+        "Buffer": 23.369904041290283, 
+        "ChunkID": "37", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.5884220600128174, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577370": {
+        "Buffer": 25.36870002746582, 
+        "ChunkID": "37", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 4.6285741329193115, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577371": {
+        "Buffer": 0, 
+        "ChunkID": "10", 
+        "Freezing": 9.559969902038574, 
+        "QoE": 0.2995805192999516, 
+        "Representation": "1", 
+        "Response": 14.559834957122803, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577372": {
+        "Buffer": 19.641277074813843, 
+        "ChunkID": "37", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 7.37866997718811, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577373": {
+        "Buffer": 24.126594066619873, 
+        "ChunkID": "38", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.5146028995513916, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577374": {
+        "Buffer": 1.6947228908538818, 
+        "ChunkID": "11", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.3051159381866455, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577376": {
+        "Buffer": 0, 
+        "ChunkID": "21", 
+        "Freezing": 5.985324859619141, 
+        "QoE": 0.4025898654105371, 
+        "Representation": "1", 
+        "Response": 10.985150814056396, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577377": {
+        "Buffer": 19.253080129623413, 
+        "ChunkID": "38", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 5.833693981170654, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577378": {
+        "Buffer": 24.336733102798462, 
+        "ChunkID": "39", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 5.662269830703735, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577379": {
+        "Buffer": 17.307574033737183, 
+        "ChunkID": "38", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 12.691518068313599, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577380": {
+        "Buffer": 21.809421062469482, 
+        "ChunkID": "39", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.49807286262512207, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577381": {
+        "Buffer": 24.44285798072815, 
+        "ChunkID": "39", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.0860931873321533, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577382": {
+        "Buffer": 19.783951997756958, 
+        "ChunkID": "39", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 9.342580080032349, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577383": {
+        "Buffer": 24.66604709625244, 
+        "ChunkID": "40", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.0284960269927979, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577384": {
+        "Buffer": 23.417822122573853, 
+        "ChunkID": "40", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 6.579364776611328, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577385": {
+        "Buffer": 22.084809064865112, 
+        "ChunkID": "40", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.46991610527038574, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577386": {
+        "Buffer": 27.082823038101196, 
+        "ChunkID": "41", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.583138942718506, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577387": {
+        "Buffer": 25.33698606491089, 
+        "ChunkID": "41", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 3.080781936645508, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577388": {
+        "Buffer": 23.449427127838135, 
+        "ChunkID": "41", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.635324001312256, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577389": {
+        "Buffer": 26.55563712120056, 
+        "ChunkID": "41", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.3465828895568848, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577391": {
+        "Buffer": 26.205811023712158, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 3.7937140464782715, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577392": {
+        "Buffer": 24.979498147964478, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.46986985206604, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577395": {
+        "Buffer": 21.652697801589966, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 7.245318174362183, 
+        "User": "planetlab-04.vt.nodes.planet-lab.org"
+    }, 
+    "1446577396": {
+        "Buffer": 21.56991195678711, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 8.429312944412231, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577397": {
+        "Buffer": 20.065760135650635, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 9.929189920425415, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577398": {
+        "Buffer": 19.379952907562256, 
+        "ChunkID": "42", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 10.619450092315674, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577399": {
+        "Buffer": 23.324628114700317, 
+        "ChunkID": "43", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 6.674343824386597, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577400": {
+        "Buffer": 22.073830127716064, 
+        "ChunkID": "43", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 2.991860866546631, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577401": {
+        "Buffer": 20.41983914375305, 
+        "ChunkID": "43", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 9.559600830078125, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577402": {
+        "Buffer": 25.505939960479736, 
+        "ChunkID": "44", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.8186349868774414, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577403": {
+        "Buffer": 27.83591318130493, 
+        "ChunkID": "44", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.8638269901275635, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577404": {
+        "Buffer": 27.613887071609497, 
+        "ChunkID": "45", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.9739429950714111, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577405": {
+        "Buffer": 27.56209111213684, 
+        "ChunkID": "45", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.4373059272766113, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577406": {
+        "Buffer": 26.613504886627197, 
+        "ChunkID": "45", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.6985142230987549, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577408": {
+        "Buffer": 23.576870918273926, 
+        "ChunkID": "45", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 4.306902170181274, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577409": {
+        "Buffer": 27.14877700805664, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.8492369651794434, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577411": {
+        "Buffer": 26.397531032562256, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.6004409790039062, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577412": {
+        "Buffer": 25.15898108482361, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.4178080558776855, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577413": {
+        "Buffer": 24.597431182861328, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.39705491065979, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577414": {
+        "Buffer": 23.166434049606323, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.831094980239868, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577415": {
+        "Buffer": 25.315277099609375, 
+        "ChunkID": "46", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.4495658874511719, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577416": {
+        "Buffer": 25.792474031448364, 
+        "ChunkID": "47", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.110363006591797, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577417": {
+        "Buffer": 29.306378841400146, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.6926600933074951, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577418": {
+        "Buffer": 29.06095314025879, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.9383687973022461, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577419": {
+        "Buffer": 28.276517868041992, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.7230899333953857, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577421": {
+        "Buffer": 26.342987060546875, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.6530399322509766, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577422": {
+        "Buffer": 29.241973876953125, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.6995351314544678, 
+        "User": "pl1.rcc.uottawa.ca"
+    }, 
+    "1446577423": {
+        "Buffer": 24.08691906929016, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.910742998123169, 
+        "User": "node2.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577424": {
+        "Buffer": 22.897224187850952, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.102097988128662, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577425": {
+        "Buffer": 21.86979103088379, 
+        "ChunkID": "48", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 8.128400087356567, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577426": {
+        "Buffer": 25.704854011535645, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.7359600067138672, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577427": {
+        "Buffer": 24.29888916015625, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 5.41912579536438, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577428": {
+        "Buffer": 23.798832893371582, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.197151184082031, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577429": {
+        "Buffer": 23.17842698097229, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.582395076751709, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577431": {
+        "Buffer": 25.20742678642273, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.17494821548461914, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577432": {
+        "Buffer": 23.367531061172485, 
+        "ChunkID": "49", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 6.631112813949585, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577434": {
+        "Buffer": 23.18321204185486, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 6.353911876678467, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577435": {
+        "Buffer": 22.09825587272644, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 6.700497150421143, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577436": {
+        "Buffer": 25.817332983016968, 
+        "ChunkID": "51", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.790066957473755, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577437": {
+        "Buffer": 20.18755602836609, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.990790843963623, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577438": {
+        "Buffer": 22.472588062286377, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.409949064254761, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577439": {
+        "Buffer": 20.701746940612793, 
+        "ChunkID": "50", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.6657280921936035, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577441": {
+        "Buffer": 20.823928117752075, 
+        "ChunkID": "51", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 5.671652793884277, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577442": {
+        "Buffer": 29.831355810165405, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.16425800323486328, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577443": {
+        "Buffer": 24.260288953781128, 
+        "ChunkID": "52", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.73921799659729, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577444": {
+        "Buffer": 28.378331184387207, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.15276288986206055, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577445": {
+        "Buffer": 27.56512999534607, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.1663200855255127, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577446": {
+        "Buffer": 25.681736946105957, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 0.8325212001800537, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577447": {
+        "Buffer": 21.36302900314331, 
+        "ChunkID": "52", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.6864168643951416, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577448": {
+        "Buffer": 27.439380884170532, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.5584189891815186, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577449": {
+        "Buffer": 1.1608929634094238, 
+        "ChunkID": "40", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.838963031768799, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577451": {
+        "Buffer": 29.02793788909912, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.9688291549682617, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577452": {
+        "Buffer": 20.606626987457275, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 5.756331920623779, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577454": {
+        "Buffer": 23.413898944854736, 
+        "ChunkID": "54", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 6.583817005157471, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577455": {
+        "Buffer": 0, 
+        "ChunkID": "31", 
+        "Freezing": 0.5038318634033203, 
+        "QoE": 0.887708671355097, 
+        "Representation": "1", 
+        "Response": 5.503652811050415, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577457": {
+        "Buffer": 29.569570064544678, 
+        "ChunkID": "56", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.4289591312408447, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577458": {
+        "Buffer": 22.11217999458313, 
+        "ChunkID": "54", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.884958982467651, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577459": {
+        "Buffer": 18.52708411216736, 
+        "ChunkID": "54", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 11.469621896743774, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577460": {
+        "Buffer": 16.5638370513916, 
+        "ChunkID": "54", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 13.435256958007812, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577461": {
+        "Buffer": 20.60433006286621, 
+        "ChunkID": "55", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 3.738555908203125, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577462": {
+        "Buffer": 24.930577993392944, 
+        "ChunkID": "56", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.6736271381378174, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577463": {
+        "Buffer": 23.796944856643677, 
+        "ChunkID": "56", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.157231092453003, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577464": {
+        "Buffer": 22.722347021102905, 
+        "ChunkID": "56", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.2758049964904785, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577466": {
+        "Buffer": 3.5926430225372314, 
+        "ChunkID": "34", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 1.6601181030273438, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577467": {
+        "Buffer": 24.48380184173584, 
+        "ChunkID": "57", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.5229799747467041, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577468": {
+        "Buffer": 22.65372109413147, 
+        "ChunkID": "56", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.3775959014892578, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577469": {
+        "Buffer": 26.28384804725647, 
+        "ChunkID": "57", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.3698041439056396, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577470": {
+        "Buffer": 22.05765199661255, 
+        "ChunkID": "57", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.9164741039276123, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577471": {
+        "Buffer": 26.365090131759644, 
+        "ChunkID": "58", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.0021510124206543, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577473": {
+        "Buffer": 27.604312896728516, 
+        "ChunkID": "57", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 1.8426101207733154, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577474": {
+        "Buffer": 27.582767009735107, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.414233922958374, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577475": {
+        "Buffer": 27.071295022964478, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.926086902618408, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577476": {
+        "Buffer": 26.473024129867554, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.5261309146881104, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577477": {
+        "Buffer": 24.804660081863403, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.194525957107544, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577478": {
+        "Buffer": 28.11145806312561, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.8873319625854492, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577480": {
+        "Buffer": 22.526955127716064, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 6.719760894775391, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577481": {
+        "Buffer": 0, 
+        "ChunkID": "36", 
+        "Freezing": 1.0309839248657227, 
+        "QoE": 0.7776659532032186, 
+        "Representation": "1", 
+        "Response": 7.226978063583374, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577482": {
+        "Buffer": 25.83967399597168, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.6871891021728516, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577483": {
+        "Buffer": 19.579242944717407, 
+        "ChunkID": "59", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 4.102586984634399, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577484": {
+        "Buffer": 23.981865167617798, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 6.017326831817627, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577486": {
+        "Buffer": 27.16383409500122, 
+        "ChunkID": "61", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.817962884902954, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577488": {
+        "Buffer": 18.8788959980011, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 11.120702981948853, 
+        "User": "node1.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577489": {
+        "Buffer": 18.343582153320312, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 11.46101999282837, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577490": {
+        "Buffer": 20.02965211868286, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 9.967022895812988, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577491": {
+        "Buffer": 20.43352198600769, 
+        "ChunkID": "61", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.610689878463745, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577492": {
+        "Buffer": 26.08467411994934, 
+        "ChunkID": "62", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.9135220050811768, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577493": {
+        "Buffer": 18.994915008544922, 
+        "ChunkID": "61", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 4.34860897064209, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577494": {
+        "Buffer": 12.821478843688965, 
+        "ChunkID": "60", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 17.176602125167847, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577496": {
+        "Buffer": 20.163398027420044, 
+        "ChunkID": "62", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 6.595462083816528, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577497": {
+        "Buffer": 19.24096989631653, 
+        "ChunkID": "62", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.213564157485962, 
+        "User": "planetlab-01.vt.nodes.planet-lab.org"
+    }, 
+    "1446577498": {
+        "Buffer": 15.10617208480835, 
+        "ChunkID": "61", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 7.8792431354522705, 
+        "User": "75-130-96-13.static.oxfr.ma.charter.com"
+    }, 
+    "1446577499": {
+        "Buffer": 0, 
+        "ChunkID": "48", 
+        "Freezing": 4.817835807800293, 
+        "QoE": 0.45199218478246234, 
+        "Representation": "1", 
+        "Response": 14.9338219165802, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577500": {
+        "Buffer": 16.904993057250977, 
+        "ChunkID": "62", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 7.0898659229278564, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577502": {
+        "Buffer": 20.556971073150635, 
+        "ChunkID": "63", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 9.44221806526184, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577503": {
+        "Buffer": 24.850908994674683, 
+        "ChunkID": "64", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.091529130935669, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577504": {
+        "Buffer": 22.540323972702026, 
+        "ChunkID": "64", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.9884071350097656, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577505": {
+        "Buffer": 22.774903059005737, 
+        "ChunkID": "64", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.7820019721984863, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577506": {
+        "Buffer": 27.04989504814148, 
+        "ChunkID": "65", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.7249419689178467, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577507": {
+        "Buffer": 24.6063289642334, 
+        "ChunkID": "65", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.381448984146118, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577508": {
+        "Buffer": 17.708112001419067, 
+        "ChunkID": "62", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 8.921808958053589, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577509": {
+        "Buffer": 28.56396198272705, 
+        "ChunkID": "66", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4341950416564941, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577510": {
+        "Buffer": 21.535878896713257, 
+        "ChunkID": "65", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.504020929336548, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577511": {
+        "Buffer": 25.835355043411255, 
+        "ChunkID": "66", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.7990829944610596, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577512": {
+        "Buffer": 19.86661696434021, 
+        "ChunkID": "65", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.15665602684021, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577513": {
+        "Buffer": 28.58051085472107, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.4181170463562012, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577514": {
+        "Buffer": 0, 
+        "ChunkID": "51", 
+        "Freezing": 0.2239091396331787, 
+        "QoE": 0.9749201708343208, 
+        "Representation": "1", 
+        "Response": 6.419533967971802, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577515": {
+        "Buffer": 27.644418001174927, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.352756977081299, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577516": {
+        "Buffer": 25.983654022216797, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.0143890380859375, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577517": {
+        "Buffer": 24.51221489906311, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.487414121627808, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577518": {
+        "Buffer": 0, 
+        "ChunkID": "21", 
+        "Freezing": 5.1231348514556885, 
+        "QoE": 0.4379515427550932, 
+        "Representation": "1", 
+        "Response": 10.123000860214233, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577519": {
+        "Buffer": 0, 
+        "ChunkID": "52", 
+        "Freezing": 0.08167886734008789, 
+        "QoE": 1.0398345447178814, 
+        "Representation": "1", 
+        "Response": 5.081532001495361, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577521": {
+        "Buffer": 15.087831020355225, 
+        "ChunkID": "65", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 5.667120933532715, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577522": {
+        "Buffer": 24.192414045333862, 
+        "ChunkID": "68", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.806889057159424, 
+        "User": "saturn.planetlab.carleton.ca"
+    }, 
+    "1446577523": {
+        "Buffer": 24.98247218132019, 
+        "ChunkID": "68", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.015716791152954, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577525": {
+        "Buffer": 0, 
+        "ChunkID": "22", 
+        "Freezing": 2.100715160369873, 
+        "QoE": 0.6381374834060818, 
+        "Representation": "1", 
+        "Response": 7.100577116012573, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577526": {
+        "Buffer": 25.360270977020264, 
+        "ChunkID": "69", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 4.4350690841674805, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577527": {
+        "Buffer": 0, 
+        "ChunkID": "40", 
+        "Freezing": 1.0199980735778809, 
+        "QoE": 0.7795495123193261, 
+        "Representation": "1", 
+        "Response": 6.019521951675415, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577528": {
+        "Buffer": 22.685446977615356, 
+        "ChunkID": "68", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.311050176620483, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577529": {
+        "Buffer": 27.59751296043396, 
+        "ChunkID": "70", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.3398308753967285, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577530": {
+        "Buffer": 26.757299184799194, 
+        "ChunkID": "70", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.5638868808746338, 
+        "User": "saturn.planetlab.carleton.ca"
+    }, 
+    "1446577531": {
+        "Buffer": 25.42350196838379, 
+        "ChunkID": "70", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.2825608253479004, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577532": {
+        "Buffer": 29.846338987350464, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.14930295944213867, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577533": {
+        "Buffer": 0, 
+        "ChunkID": "41", 
+        "Freezing": 1.1673550605773926, 
+        "QoE": 0.7553175057346738, 
+        "Representation": "1", 
+        "Response": 6.16691517829895, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577534": {
+        "Buffer": 23.5356547832489, 
+        "ChunkID": "70", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.587191104888916, 
+        "User": "ebb.colgate.edu"
+    }, 
+    "1446577537": {
+        "Buffer": 24.96453309059143, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.034997940063477, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577538": {
+        "Buffer": 23.501177072525024, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.498403072357178, 
+        "User": "node1.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577539": {
+        "Buffer": 23.793691158294678, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.204542875289917, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577540": {
+        "Buffer": 21.92281699180603, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 8.076244115829468, 
+        "User": "saturn.planetlab.carleton.ca"
+    }, 
+    "1446577541": {
+        "Buffer": 21.447021007537842, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.08857798576355, 
+        "User": "ebb.colgate.edu"
+    }, 
+    "1446577542": {
+        "Buffer": 20.385375022888184, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 9.613632917404175, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577543": {
+        "Buffer": 29.042484998703003, 
+        "ChunkID": "73", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.9531569480895996, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577544": {
+        "Buffer": 18.23516607284546, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.453249931335449, 
+        "User": "planetlabtwo.ccs.neu.edu"
+    }, 
+    "1446577545": {
+        "Buffer": 20.667694091796875, 
+        "ChunkID": "71", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 7.958384037017822, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577547": {
+        "Buffer": 20.3804669380188, 
+        "ChunkID": "72", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 6.509999990463257, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577548": {
+        "Buffer": 19.493335008621216, 
+        "ChunkID": "72", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.741750955581665, 
+        "User": "planetlabtwo.ccs.neu.edu"
+    }, 
+    "1446577549": {
+        "Buffer": 22.61290693283081, 
+        "ChunkID": "73", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.5858469009399414, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577550": {
+        "Buffer": 16.675957918167114, 
+        "ChunkID": "72", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 10.084848880767822, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577551": {
+        "Buffer": 19.146826028823853, 
+        "ChunkID": "72", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 6.520801067352295, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577552": {
+        "Buffer": 29.464087963104248, 
+        "ChunkID": "75", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 0.5353748798370361, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577553": {
+        "Buffer": 24.398065090179443, 
+        "ChunkID": "74", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.206615924835205, 
+        "User": "planetlab-5.eecs.cwru.edu"
+    }, 
+    "1446577554": {
+        "Buffer": 27.97846508026123, 
+        "ChunkID": "75", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.020565986633301, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577555": {
+        "Buffer": 25.17513418197632, 
+        "ChunkID": "74", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.917984962463379, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577556": {
+        "Buffer": 15.177804946899414, 
+        "ChunkID": "72", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 5.1150500774383545, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577557": {
+        "Buffer": 25.55556321144104, 
+        "ChunkID": "75", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.444224834442139, 
+        "User": "node2.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577558": {
+        "Buffer": 0, 
+        "ChunkID": "44", 
+        "Freezing": 2.69219708442688, 
+        "QoE": 0.5840740965279788, 
+        "Representation": "1", 
+        "Response": 7.692055940628052, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577559": {
+        "Buffer": 28.0469331741333, 
+        "ChunkID": "76", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.949880838394165, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577561": {
+        "Buffer": 25.933079957962036, 
+        "ChunkID": "76", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.1178371906280518, 
+        "User": "node1.planetlab.mathcs.emory.edu"
+    }, 
+    "1446577562": {
+        "Buffer": 24.87896180152893, 
+        "ChunkID": "76", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.116318225860596, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577563": {
+        "Buffer": 29.067552089691162, 
+        "ChunkID": "77", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 0.9286348819732666, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577564": {
+        "Buffer": 12.022902011871338, 
+        "ChunkID": "73", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 8.154764890670776, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577565": {
+        "Buffer": 15.548707008361816, 
+        "ChunkID": "74", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 1.4740219116210938, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577567": {
+        "Buffer": 18.399802923202515, 
+        "ChunkID": "75", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 2.148728132247925, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577568": {
+        "Buffer": 28.423949003219604, 
+        "ChunkID": "78", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.5719671249389648, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577569": {
+        "Buffer": 28.29068684577942, 
+        "ChunkID": "78", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 1.7050681114196777, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577573": {
+        "Buffer": 29.076914072036743, 
+        "ChunkID": "79", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 0.9217119216918945, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577574": {
+        "Buffer": 28.402981996536255, 
+        "ChunkID": "79", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.5942490100860596, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577575": {
+        "Buffer": 25.65614604949951, 
+        "ChunkID": "78", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 4.342172861099243, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577576": {
+        "Buffer": 28.954602003097534, 
+        "ChunkID": "79", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.0416431427001953, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577578": {
+        "Buffer": 29.353162050247192, 
+        "ChunkID": "80", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.6430299282073975, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577579": {
+        "Buffer": 28.356868982315063, 
+        "ChunkID": "80", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.6402881145477295, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577580": {
+        "Buffer": 27.051039934158325, 
+        "ChunkID": "80", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 2.945275068283081, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577581": {
+        "Buffer": 0, 
+        "ChunkID": "47", 
+        "Freezing": 4.245396137237549, 
+        "QoE": 0.4809463797255233, 
+        "Representation": "1", 
+        "Response": 9.245254039764404, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577582": {
+        "Buffer": 29.839059829711914, 
+        "ChunkID": "81", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.1563889980316162, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577583": {
+        "Buffer": 28.932075023651123, 
+        "ChunkID": "81", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.0636818408966064, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577584": {
+        "Buffer": 27.57894802093506, 
+        "ChunkID": "81", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.4188120365142822, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577585": {
+        "Buffer": 28.08137011528015, 
+        "ChunkID": "81", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.9147870540618896, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577586": {
+        "Buffer": 28.78691601753235, 
+        "ChunkID": "81", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.2090048789978027, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577587": {
+        "Buffer": 29.812079906463623, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.18341588973999023, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577588": {
+        "Buffer": 29.518433094024658, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.4787559509277344, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577589": {
+        "Buffer": 27.97087001800537, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.0265681743621826, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577590": {
+        "Buffer": 26.782247066497803, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.2148120403289795, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577591": {
+        "Buffer": 26.503155946731567, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.4948461055755615, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577592": {
+        "Buffer": 26.119995832443237, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.878223180770874, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577593": {
+        "Buffer": 29.586388111114502, 
+        "ChunkID": "83", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.4097778797149658, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577594": {
+        "Buffer": 28.23116898536682, 
+        "ChunkID": "83", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.7682321071624756, 
+        "User": "planetlabtwo.ccs.neu.edu"
+    }, 
+    "1446577595": {
+        "Buffer": 28.343243837356567, 
+        "ChunkID": "83", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.655851125717163, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577596": {
+        "Buffer": 29.014360189437866, 
+        "ChunkID": "83", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.9815759658813477, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577600": {
+        "Buffer": 20.749694108963013, 
+        "ChunkID": "82", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 4.970534801483154, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577601": {
+        "Buffer": 26.248673915863037, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.7477500438690186, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577602": {
+        "Buffer": 24.8798930644989, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.116848945617676, 
+        "User": "pl1.rcc.uottawa.ca"
+    }, 
+    "1446577603": {
+        "Buffer": 24.15470814704895, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.842060804367065, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577604": {
+        "Buffer": 0, 
+        "ChunkID": "49", 
+        "Freezing": 2.1148829460144043, 
+        "QoE": 0.6367019893821871, 
+        "Representation": "1", 
+        "Response": 7.114712953567505, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577605": {
+        "Buffer": 21.665518045425415, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 8.331485986709595, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577607": {
+        "Buffer": 19.367408990859985, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 10.631787061691284, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577611": {
+        "Buffer": 19.37157702445984, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 10.624747037887573, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577612": {
+        "Buffer": 16.13067603111267, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 13.865800857543945, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577613": {
+        "Buffer": 18.68180799484253, 
+        "ChunkID": "85", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 7.98362398147583, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577614": {
+        "Buffer": 18.118338108062744, 
+        "ChunkID": "85", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.734099864959717, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577615": {
+        "Buffer": 18.102444171905518, 
+        "ChunkID": "85", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 2.612259864807129, 
+        "User": "75-130-96-13.static.oxfr.ma.charter.com"
+    }, 
+    "1446577616": {
+        "Buffer": 10.976570129394531, 
+        "ChunkID": "84", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 19.019789934158325, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577617": {
+        "Buffer": 20.4257230758667, 
+        "ChunkID": "86", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 3.4706239700317383, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577618": {
+        "Buffer": 18.284395933151245, 
+        "ChunkID": "86", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 11.711225986480713, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577619": {
+        "Buffer": 23.382567167282104, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.8584389686584473, 
+        "User": "planet4.cc.gt.atl.ga.us"
+    }, 
+    "1446577620": {
+        "Buffer": 21.764261960983276, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 4.477005958557129, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577622": {
+        "Buffer": 20.25163698196411, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 5.7248430252075195, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577623": {
+        "Buffer": 24.036468982696533, 
+        "ChunkID": "88", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.43160080909729004, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577624": {
+        "Buffer": 12.954283952713013, 
+        "ChunkID": "86", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 6.506124019622803, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577625": {
+        "Buffer": 20.738265991210938, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 0.6962471008300781, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577626": {
+        "Buffer": 11.43328309059143, 
+        "ChunkID": "86", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 12.553784847259521, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577627": {
+        "Buffer": 19.196574926376343, 
+        "ChunkID": "88", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.30770206451416016, 
+        "User": "planetlab-04.vt.nodes.planet-lab.org"
+    }, 
+    "1446577628": {
+        "Buffer": 1.5712080001831055, 
+        "ChunkID": "53", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 5.874989986419678, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577629": {
+        "Buffer": 12.479614019393921, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.474606990814209, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577630": {
+        "Buffer": 16.91911005973816, 
+        "ChunkID": "88", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.5604438781738281, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577631": {
+        "Buffer": 20.59517002105713, 
+        "ChunkID": "89", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.3238780498504639, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577632": {
+        "Buffer": 25.508105993270874, 
+        "ChunkID": "90", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 1.0387170314788818, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577633": {
+        "Buffer": 22.265104055404663, 
+        "ChunkID": "88", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.733512878417969, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577634": {
+        "Buffer": 27.38165283203125, 
+        "ChunkID": "91", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.1648731231689453, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577635": {
+        "Buffer": 21.720372915267944, 
+        "ChunkID": "90", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.47905802726745605, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577636": {
+        "Buffer": 26.125962018966675, 
+        "ChunkID": "91", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.5943520069122314, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577637": {
+        "Buffer": 19.85114097595215, 
+        "ChunkID": "90", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.4210288524627686, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577638": {
+        "Buffer": 28.164041996002197, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.8334579467773438, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577639": {
+        "Buffer": 28.012899160385132, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.9850988388061523, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577642": {
+        "Buffer": 24.910881996154785, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.542117118835449, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577643": {
+        "Buffer": 28.411158800125122, 
+        "ChunkID": "93", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.5846900939941406, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577644": {
+        "Buffer": 22.827001094818115, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 7.1704559326171875, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577645": {
+        "Buffer": 21.503973960876465, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 7.522423982620239, 
+        "User": "planetlab3.rutgers.edu"
+    }, 
+    "1446577646": {
+        "Buffer": 22.007993936538696, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 7.991105079650879, 
+        "User": "planetlab2.acis.ufl.edu"
+    }, 
+    "1446577647": {
+        "Buffer": 20.296553134918213, 
+        "ChunkID": "92", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 9.631539821624756, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577648": {
+        "Buffer": 0, 
+        "ChunkID": "27", 
+        "Freezing": 27.243379831314087, 
+        "QoE": 0.10661422226067681, 
+        "Representation": "1", 
+        "Response": 32.243242025375366, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577649": {
+        "Buffer": 23.00994300842285, 
+        "ChunkID": "93", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 0.6262900829315186, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577650": {
+        "Buffer": 21.995017766952515, 
+        "ChunkID": "93", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 8.001028060913086, 
+        "User": "planetlab1.acis.ufl.edu"
+    }, 
+    "1446577651": {
+        "Buffer": 20.443758010864258, 
+        "ChunkID": "93", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 9.553383111953735, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577652": {
+        "Buffer": 25.05659008026123, 
+        "ChunkID": "94", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.38711094856262207, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577653": {
+        "Buffer": 21.85878086090088, 
+        "ChunkID": "93", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 0.7756340503692627, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577654": {
+        "Buffer": 27.864156007766724, 
+        "ChunkID": "95", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 2.1352460384368896, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577655": {
+        "Buffer": 22.182777166366577, 
+        "ChunkID": "94", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.0730369091033936, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577656": {
+        "Buffer": 26.901950120925903, 
+        "ChunkID": "95", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.2807629108428955, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577657": {
+        "Buffer": 26.14515495300293, 
+        "ChunkID": "95", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.3346109390258789, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577658": {
+        "Buffer": 28.980303049087524, 
+        "ChunkID": "96", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.0182468891143799, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577659": {
+        "Buffer": 27.610664129257202, 
+        "ChunkID": "96", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 2.3882930278778076, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577660": {
+        "Buffer": 27.72984504699707, 
+        "ChunkID": "96", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.2679009437561035, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577663": {
+        "Buffer": 29.56470799446106, 
+        "ChunkID": "97", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 0.4324800968170166, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577664": {
+        "Buffer": 28.236911058425903, 
+        "ChunkID": "97", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.7601189613342285, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577665": {
+        "Buffer": 26.74852705001831, 
+        "ChunkID": "97", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.247267961502075, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577666": {
+        "Buffer": 29.52867317199707, 
+        "ChunkID": "97", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.47083091735839844, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577667": {
+        "Buffer": 29.758157968521118, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.2360379695892334, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577668": {
+        "Buffer": 28.537518978118896, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.4595599174499512, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577669": {
+        "Buffer": 27.644563913345337, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.3540830612182617, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577670": {
+        "Buffer": 27.811036109924316, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.187638998031616, 
+        "User": "planet3.cc.gt.atl.ga.us"
+    }, 
+    "1446577671": {
+        "Buffer": 26.919987201690674, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.0761959552764893, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577672": {
+        "Buffer": 0, 
+        "ChunkID": "61", 
+        "Freezing": 11.905582904815674, 
+        "QoE": 0.2541537987547983, 
+        "Representation": "1", 
+        "Response": 16.905415058135986, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577673": {
+        "Buffer": 26.46749997138977, 
+        "ChunkID": "98", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 3.379899024963379, 
+        "User": "pl1.eecs.utk.edu"
+    }, 
+    "1446577674": {
+        "Buffer": 28.677751064300537, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.3204050064086914, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577675": {
+        "Buffer": 27.666202068328857, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 2.3272030353546143, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577676": {
+        "Buffer": 26.272352933883667, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.7247841358184814, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577677": {
+        "Buffer": 24.923102855682373, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.074980974197388, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577678": {
+        "Buffer": 28.857404947280884, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.0656118392944336, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577679": {
+        "Buffer": 28.73015809059143, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.2659659385681152, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577680": {
+        "Buffer": 26.041010856628418, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.9549450874328613, 
+        "User": "planetlab-04.vt.nodes.planet-lab.org"
+    }, 
+    "1446577681": {
+        "Buffer": 26.926398992538452, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 3.050718069076538, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577682": {
+        "Buffer": 28.402761936187744, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.5946300029754639, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577684": {
+        "Buffer": 28.730805158615112, 
+        "ChunkID": "101", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.2652878761291504, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577685": {
+        "Buffer": 21.07986307144165, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 3.5441508293151855, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577686": {
+        "Buffer": 0, 
+        "ChunkID": "59", 
+        "Freezing": 5.579730033874512, 
+        "QoE": 0.41850142003638163, 
+        "Representation": "1", 
+        "Response": 10.579559087753296, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577687": {
+        "Buffer": 24.863445043563843, 
+        "ChunkID": "101", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 5.136263847351074, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577688": {
+        "Buffer": 0, 
+        "ChunkID": "30", 
+        "Freezing": 3.795070171356201, 
+        "QoE": 0.5065894136016305, 
+        "Representation": "1", 
+        "Response": 8.794926166534424, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577689": {
+        "Buffer": 23.401116132736206, 
+        "ChunkID": "101", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 6.597409963607788, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577691": {
+        "Buffer": 24.9197940826416, 
+        "ChunkID": "101", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 2.8302040100097656, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577692": {
+        "Buffer": 24.358201026916504, 
+        "ChunkID": "102", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 5.639312982559204, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577693": {
+        "Buffer": 26.690093994140625, 
+        "ChunkID": "102", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 3.304382085800171, 
+        "User": "pl1.eecs.utk.edu"
+    }, 
+    "1446577694": {
+        "Buffer": 22.986928939819336, 
+        "ChunkID": "102", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.010385036468506, 
+        "User": "pl1.rcc.uottawa.ca"
+    }, 
+    "1446577695": {
+        "Buffer": 27.258405923843384, 
+        "ChunkID": "103", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.741209030151367, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577696": {
+        "Buffer": 21.275227069854736, 
+        "ChunkID": "102", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 8.7208890914917, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577697": {
+        "Buffer": 28.57111406326294, 
+        "ChunkID": "103", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.4270648956298828, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577698": {
+        "Buffer": 24.73081398010254, 
+        "ChunkID": "103", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 1.5443460941314697, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577699": {
+        "Buffer": 27.83225703239441, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 2.165771007537842, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577700": {
+        "Buffer": 25.910212993621826, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.667292833328247, 
+        "User": "planetlab-04.vt.nodes.planet-lab.org"
+    }, 
+    "1446577701": {
+        "Buffer": 25.65844988822937, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 2.543401002883911, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577702": {
+        "Buffer": 26.01086401939392, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.719882011413574, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577703": {
+        "Buffer": 18.46906280517578, 
+        "ChunkID": "103", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 11.526457071304321, 
+        "User": "planetlab1.cnds.jhu.edu"
+    }, 
+    "1446577704": {
+        "Buffer": 22.510283946990967, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 6.397629022598267, 
+        "User": "planetlab1.cs.uml.edu"
+    }, 
+    "1446577705": {
+        "Buffer": 27.268968105316162, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 2.728264093399048, 
+        "User": "pluto.cs.brown.edu"
+    }, 
+    "1446577706": {
+        "Buffer": 25.559165000915527, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 2.3664300441741943, 
+        "User": "planetlab1.tsuniv.edu"
+    }, 
+    "1446577707": {
+        "Buffer": 24.770906925201416, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 5.227595090866089, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577708": {
+        "Buffer": 24.150823831558228, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.748387098312378, 
+        "User": "ebb.colgate.edu"
+    }, 
+    "1446577710": {
+        "Buffer": 22.201996088027954, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 7.7951579093933105, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577713": {
+        "Buffer": 24.077191829681396, 
+        "ChunkID": "106", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 5.073575973510742, 
+        "User": "ebb.colgate.edu"
+    }, 
+    "1446577714": {
+        "Buffer": 22.727046966552734, 
+        "ChunkID": "106", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.271991014480591, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577715": {
+        "Buffer": 24.899605989456177, 
+        "ChunkID": "106", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.42446398735046387, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577716": {
+        "Buffer": 20.825928926467896, 
+        "ChunkID": "106", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 9.172812938690186, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577719": {
+        "Buffer": 22.63904309272766, 
+        "ChunkID": "107", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.536494016647339, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577720": {
+        "Buffer": 21.728941917419434, 
+        "ChunkID": "107", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 5.998017072677612, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577722": {
+        "Buffer": 24.09190797805786, 
+        "ChunkID": "108", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 3.4876880645751953, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577723": {
+        "Buffer": 23.759995937347412, 
+        "ChunkID": "108", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 3.8789830207824707, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577726": {
+        "Buffer": 19.86713194847107, 
+        "ChunkID": "107", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 9.508442163467407, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577727": {
+        "Buffer": 28.513346910476685, 
+        "ChunkID": "108", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 1.4820821285247803, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577728": {
+        "Buffer": 23.205237865447998, 
+        "ChunkID": "109", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 6.79403018951416, 
+        "User": "planetlab-01.vt.nodes.planet-lab.org"
+    }, 
+    "1446577729": {
+        "Buffer": 17.629198789596558, 
+        "ChunkID": "108", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 9.099655151367188, 
+        "User": "planetlab1.temple.edu"
+    }, 
+    "1446577730": {
+        "Buffer": 22.34066104888916, 
+        "ChunkID": "109", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 6.4192728996276855, 
+        "User": "planetlab5.csee.usf.edu"
+    }, 
+    "1446577731": {
+        "Buffer": 19.320283889770508, 
+        "ChunkID": "108", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.54671311378479, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577733": {
+        "Buffer": 23.377229928970337, 
+        "ChunkID": "110", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 4.2655251026153564, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577735": {
+        "Buffer": 0, 
+        "ChunkID": "65", 
+        "Freezing": 2.469491958618164, 
+        "QoE": 0.6031262920124267, 
+        "Representation": "1", 
+        "Response": 7.469334840774536, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577737": {
+        "Buffer": 22.88848114013672, 
+        "ChunkID": "110", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.110832929611206, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577739": {
+        "Buffer": 12.661383152008057, 
+        "ChunkID": "109", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 16.21483588218689, 
+        "User": "planetlab2.tsuniv.edu"
+    }, 
+    "1446577740": {
+        "Buffer": 21.82471203804016, 
+        "ChunkID": "111", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.1567189693450928, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577741": {
+        "Buffer": 20.5968279838562, 
+        "ChunkID": "111", 
+        "Freezing": 0, 
+        "QoE": 4.2084169128406685, 
+        "Representation": "7", 
+        "Response": 7.780328035354614, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577742": {
+        "Buffer": 23.72586703300476, 
+        "ChunkID": "110", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 6.269959926605225, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577744": {
+        "Buffer": 26.541702032089233, 
+        "ChunkID": "112", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 3.3539860248565674, 
+        "User": "planetlabone.ccs.neu.edu"
+    }, 
+    "1446577745": {
+        "Buffer": 21.152961015701294, 
+        "ChunkID": "112", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 5.023849010467529, 
+        "User": "planetlab-01.vt.nodes.planet-lab.org"
+    }, 
+    "1446577746": {
+        "Buffer": 1.0187840461730957, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.9810540676116943, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577747": {
+        "Buffer": 15.32069206237793, 
+        "ChunkID": "111", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 5.718302965164185, 
+        "User": "planetlab1.pop-mg.rnp.br"
+    }, 
+    "1446577748": {
+        "Buffer": 23.361510038375854, 
+        "ChunkID": "113", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 2.433461904525757, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577749": {
+        "Buffer": 23.24971294403076, 
+        "ChunkID": "113", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.9595589637756348, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577750": {
+        "Buffer": 26.28905987739563, 
+        "ChunkID": "114", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 2.072360038757324, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577751": {
+        "Buffer": 15.52622103691101, 
+        "ChunkID": "112", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 10.115964889526367, 
+        "User": "planetlab2.cs.uml.edu"
+    }, 
+    "1446577753": {
+        "Buffer": 28.161563873291016, 
+        "ChunkID": "115", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 0.1563570499420166, 
+        "User": "plonk.cs.uwaterloo.ca"
+    }, 
+    "1446577754": {
+        "Buffer": 28.356420040130615, 
+        "ChunkID": "115", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 1.642608880996704, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577755": {
+        "Buffer": 22.02751398086548, 
+        "ChunkID": "114", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 7.497781038284302, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577756": {
+        "Buffer": 25.854480981826782, 
+        "ChunkID": "115", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.172950029373169, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577757": {
+        "Buffer": 29.504739999771118, 
+        "ChunkID": "116", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.49503183364868164, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577758": {
+        "Buffer": 28.830107927322388, 
+        "ChunkID": "116", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.1688990592956543, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577759": {
+        "Buffer": 28.51045513153076, 
+        "ChunkID": "116", 
+        "Freezing": 0, 
+        "QoE": 4.718798228585638, 
+        "Representation": "8", 
+        "Response": 0.5764269828796387, 
+        "User": "planetlab3.cnds.jhu.edu"
+    }, 
+    "1446577761": {
+        "Buffer": 29.114768981933594, 
+        "ChunkID": "116", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.8843162059783936, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577762": {
+        "Buffer": 29.365020036697388, 
+        "ChunkID": "117", 
+        "Freezing": 0, 
+        "QoE": 3.0703630389805276, 
+        "Representation": "4", 
+        "Response": 0.6309869289398193, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577763": {
+        "Buffer": 28.97175693511963, 
+        "ChunkID": "117", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 1.0242600440979004, 
+        "User": "planetlabtwo.ccs.neu.edu"
+    }, 
+    "1446577764": {
+        "Buffer": 29.056883096694946, 
+        "ChunkID": "117", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.9402608871459961, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577765": {
+        "Buffer": 25.937071084976196, 
+        "ChunkID": "116", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 4.060043811798096, 
+        "User": "planetlab1.rutgers.edu"
+    }, 
+    "1446577766": {
+        "Buffer": 29.22536611557007, 
+        "ChunkID": "117", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.7703940868377686, 
+        "User": "planetlab2.clemson.edu"
+    }, 
+    "1446577767": {
+        "Buffer": 29.422817945480347, 
+        "ChunkID": "118", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.5671970844268799, 
+        "User": "planetlab2.temple.edu"
+    }, 
+    "1446577768": {
+        "Buffer": 28.683626890182495, 
+        "ChunkID": "118", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.3118271827697754, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577769": {
+        "Buffer": 28.897028923034668, 
+        "ChunkID": "118", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 1.0068800449371338, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577770": {
+        "Buffer": 29.528596878051758, 
+        "ChunkID": "118", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.4664900302886963, 
+        "User": "planetlab2.cnis.nyit.edu"
+    }, 
+    "1446577771": {
+        "Buffer": 29.499851942062378, 
+        "ChunkID": "117", 
+        "Freezing": 0, 
+        "QoE": 4.999925769684824, 
+        "Representation": "9", 
+        "Response": 0.49573397636413574, 
+        "User": "planetlab1.cnis.nyit.edu"
+    }, 
+    "1446577772": {
+        "Buffer": 29.530641078948975, 
+        "ChunkID": "119", 
+        "Freezing": 0, 
+        "QoE": 3.5283953726892214, 
+        "Representation": "5", 
+        "Response": 0.46550679206848145, 
+        "User": "plink.cs.uwaterloo.ca"
+    }, 
+    "1446577773": {
+        "Buffer": 29.400416135787964, 
+        "ChunkID": "119", 
+        "Freezing": 0, 
+        "QoE": 2.642235403457385, 
+        "Representation": "3", 
+        "Response": 0.5967118740081787, 
+        "User": "planetlab2.pop-mg.rnp.br"
+    }, 
+    "1446577774": {
+        "Buffer": 29.16063904762268, 
+        "ChunkID": "119", 
+        "Freezing": 0, 
+        "QoE": 3.873906105853863, 
+        "Representation": "6", 
+        "Response": 0.8228349685668945, 
+        "User": "planetlab2.cti.espol.edu.ec"
+    }, 
+    "1446577776": {
+        "Buffer": 10.523328065872192, 
+        "ChunkID": "75", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 2.1178739070892334, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577788": {
+        "Buffer": 3.6250460147857666, 
+        "ChunkID": "76", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 11.898147106170654, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577805": {
+        "Buffer": 0, 
+        "ChunkID": "37", 
+        "Freezing": 4.1458680629730225, 
+        "QoE": 0.4863765326704778, 
+        "Representation": "1", 
+        "Response": 9.145732164382935, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577823": {
+        "Buffer": 13.927386045455933, 
+        "ChunkID": "85", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 4.864686965942383, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577832": {
+        "Buffer": 1.9378929138183594, 
+        "ChunkID": "40", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.0619709491729736, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577837": {
+        "Buffer": 4.524328947067261, 
+        "ChunkID": "86", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 14.402769088745117, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577844": {
+        "Buffer": 2.3463120460510254, 
+        "ChunkID": "87", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 7.177884101867676, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577848": {
+        "Buffer": 0, 
+        "ChunkID": "76", 
+        "Freezing": 7.603042125701904, 
+        "QoE": 0.34912382062605896, 
+        "Representation": "1", 
+        "Response": 13.6633939743042, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577850": {
+        "Buffer": 3.2880330085754395, 
+        "ChunkID": "77", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 1.7118260860443115, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577851": {
+        "Buffer": 1.0163071155548096, 
+        "ChunkID": "88", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 6.329874038696289, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577854": {
+        "Buffer": 4.110224962234497, 
+        "ChunkID": "78", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 4.1776649951934814, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577858": {
+        "Buffer": 0, 
+        "ChunkID": "42", 
+        "Freezing": 9.769086837768555, 
+        "QoE": 0.29500453328328646, 
+        "Representation": "1", 
+        "Response": 14.76894998550415, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577882": {
+        "Buffer": 0.5095059871673584, 
+        "ChunkID": "83", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 10.278625011444092, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577899": {
+        "Buffer": 0, 
+        "ChunkID": "45", 
+        "Freezing": 2.8421220779418945, 
+        "QoE": 0.5720072640854478, 
+        "Representation": "1", 
+        "Response": 7.841984033584595, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577900": {
+        "Buffer": 0, 
+        "ChunkID": "84", 
+        "Freezing": 11.801929950714111, 
+        "QoE": 0.2559204867350131, 
+        "Representation": "1", 
+        "Response": 17.3113009929657, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577912": {
+        "Buffer": 0.47191286087036133, 
+        "ChunkID": "47", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 4.527951002120972, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577920": {
+        "Buffer": 11.523054122924805, 
+        "ChunkID": "104", 
+        "Freezing": 0, 
+        "QoE": 2.0125957871106563, 
+        "Representation": "2", 
+        "Response": 8.55623984336853, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577923": {
+        "Buffer": 0, 
+        "ChunkID": "48", 
+        "Freezing": 5.500974178314209, 
+        "QoE": 0.4217338560176049, 
+        "Representation": "1", 
+        "Response": 10.972754955291748, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577925": {
+        "Buffer": 11.448302984237671, 
+        "ChunkID": "105", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 5.0746190547943115, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577952": {
+        "Buffer": 0, 
+        "ChunkID": "108", 
+        "Freezing": 0.4933340549468994, 
+        "QoE": 0.8904563707417614, 
+        "Representation": "1", 
+        "Response": 8.33700704574585, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577958": {
+        "Buffer": 0, 
+        "ChunkID": "109", 
+        "Freezing": 0.7720530033111572, 
+        "QoE": 0.8260136086984935, 
+        "Representation": "1", 
+        "Response": 5.771905183792114, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577963": {
+        "Buffer": 0, 
+        "ChunkID": "52", 
+        "Freezing": 4.33196496963501, 
+        "QoE": 0.47632482874169446, 
+        "Representation": "1", 
+        "Response": 9.331799030303955, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577965": {
+        "Buffer": 0, 
+        "ChunkID": "110", 
+        "Freezing": 1.770763874053955, 
+        "QoE": 0.6739845565220207, 
+        "Representation": "1", 
+        "Response": 6.770618915557861, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577968": {
+        "Buffer": 1.6210319995880127, 
+        "ChunkID": "111", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.3788020610809326, 
+        "User": "planetlab-2.cse.ohio-state.edu"
+    }, 
+    "1446577976": {
+        "Buffer": 0, 
+        "ChunkID": "98", 
+        "Freezing": 3.034492015838623, 
+        "QoE": 0.5573265101037337, 
+        "Representation": "1", 
+        "Response": 8.034350872039795, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577985": {
+        "Buffer": 0, 
+        "ChunkID": "55", 
+        "Freezing": 3.9512720108032227, 
+        "QoE": 0.49737381414710585, 
+        "Representation": "1", 
+        "Response": 8.934072017669678, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446577992": {
+        "Buffer": 2.31811785697937, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 2.6816999912261963, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446577999": {
+        "Buffer": 0, 
+        "ChunkID": "56", 
+        "Freezing": 8.330863952636719, 
+        "QoE": 0.32912143992767884, 
+        "Representation": "1", 
+        "Response": 13.330699920654297, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578002": {
+        "Buffer": 0, 
+        "ChunkID": "101", 
+        "Freezing": 3.1032841205596924, 
+        "QoE": 0.5522795210012672, 
+        "Representation": "1", 
+        "Response": 10.421265125274658, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446578008": {
+        "Buffer": 0, 
+        "ChunkID": "57", 
+        "Freezing": 3.916008949279785, 
+        "QoE": 0.4994230554026294, 
+        "Representation": "1", 
+        "Response": 8.915873050689697, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578015": {
+        "Buffer": 0, 
+        "ChunkID": "58", 
+        "Freezing": 1.9060070514678955, 
+        "QoE": 0.6587007925335655, 
+        "Representation": "1", 
+        "Response": 6.905869007110596, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578031": {
+        "Buffer": 0, 
+        "ChunkID": "60", 
+        "Freezing": 4.087010860443115, 
+        "QoE": 0.48964849091218865, 
+        "Representation": "1", 
+        "Response": 9.086874961853027, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578045": {
+        "Buffer": 0, 
+        "ChunkID": "105", 
+        "Freezing": 11.865778923034668, 
+        "QoE": 0.25482995062976244, 
+        "Representation": "1", 
+        "Response": 16.86563801765442, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446578062": {
+        "Buffer": 0, 
+        "ChunkID": "107", 
+        "Freezing": 7.112215042114258, 
+        "QoE": 0.36389076721199554, 
+        "Representation": "1", 
+        "Response": 12.426660060882568, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446578078": {
+        "Buffer": 0, 
+        "ChunkID": "109", 
+        "Freezing": 6.629633903503418, 
+        "QoE": 0.379570664147988, 
+        "Representation": "1", 
+        "Response": 12.067604064941406, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446578087": {
+        "Buffer": 0.12248396873474121, 
+        "ChunkID": "67", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 6.420283079147339, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578096": {
+        "Buffer": 0, 
+        "ChunkID": "68", 
+        "Freezing": 4.307471036911011, 
+        "QoE": 0.4776230815610373, 
+        "Representation": "1", 
+        "Response": 9.429825067520142, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578105": {
+        "Buffer": 0, 
+        "ChunkID": "112", 
+        "Freezing": 1.7061131000518799, 
+        "QoE": 0.6816120973618092, 
+        "Representation": "1", 
+        "Response": 6.705971002578735, 
+        "User": "planetlab2.rutgers.edu"
+    }, 
+    "1446578112": {
+        "Buffer": 0, 
+        "ChunkID": "70", 
+        "Freezing": 3.2721309661865234, 
+        "QoE": 0.5403118524486606, 
+        "Representation": "1", 
+        "Response": 8.271995067596436, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578122": {
+        "Buffer": 0, 
+        "ChunkID": "71", 
+        "Freezing": 4.846208810806274, 
+        "QoE": 0.45064924568549486, 
+        "Representation": "1", 
+        "Response": 9.846073865890503, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578150": {
+        "Buffer": 0, 
+        "ChunkID": "75", 
+        "Freezing": 0.5399370193481445, 
+        "QoE": 0.8784835609500182, 
+        "Representation": "1", 
+        "Response": 5.53978705406189, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578160": {
+        "Buffer": 0, 
+        "ChunkID": "76", 
+        "Freezing": 5.414911985397339, 
+        "QoE": 0.4253226302109852, 
+        "Representation": "1", 
+        "Response": 10.414772987365723, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578175": {
+        "Buffer": 0, 
+        "ChunkID": "78", 
+        "Freezing": 4.709042072296143, 
+        "QoE": 0.4572175758966106, 
+        "Representation": "1", 
+        "Response": 11.541882991790771, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578181": {
+        "Buffer": 0, 
+        "ChunkID": "79", 
+        "Freezing": 0.6861510276794434, 
+        "QoE": 0.8442170219107366, 
+        "Representation": "1", 
+        "Response": 5.6860151290893555, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578188": {
+        "Buffer": 0, 
+        "ChunkID": "80", 
+        "Freezing": 2.607834815979004, 
+        "QoE": 0.5911251739098968, 
+        "Representation": "1", 
+        "Response": 7.607700824737549, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578211": {
+        "Buffer": 0, 
+        "ChunkID": "81", 
+        "Freezing": 17.4602210521698, 
+        "QoE": 0.1808266856862611, 
+        "Representation": "1", 
+        "Response": 22.46008586883545, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578234": {
+        "Buffer": 0, 
+        "ChunkID": "83", 
+        "Freezing": 6.277902126312256, 
+        "QoE": 0.3918173739972662, 
+        "Representation": "1", 
+        "Response": 11.277765035629272, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578342": {
+        "Buffer": 0, 
+        "ChunkID": "88", 
+        "Freezing": 8.279197216033936, 
+        "QoE": 0.3304736496986235, 
+        "Representation": "1", 
+        "Response": 13.27906322479248, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578408": {
+        "Buffer": 0.9868509769439697, 
+        "ChunkID": "94", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 4.0129899978637695, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578427": {
+        "Buffer": 0, 
+        "ChunkID": "97", 
+        "Freezing": 3.440412998199463, 
+        "QoE": 0.5289384786052734, 
+        "Representation": "1", 
+        "Response": 12.8559730052948, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578433": {
+        "Buffer": 0, 
+        "ChunkID": "98", 
+        "Freezing": 0.4759490489959717, 
+        "QoE": 0.8950750718346605, 
+        "Representation": "1", 
+        "Response": 5.4758141040802, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578435": {
+        "Buffer": 2.63806414604187, 
+        "ChunkID": "99", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 2.361799955368042, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578438": {
+        "Buffer": 4.871747016906738, 
+        "ChunkID": "100", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 2.766187906265259, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578448": {
+        "Buffer": 0, 
+        "ChunkID": "101", 
+        "Freezing": 0.38577890396118164, 
+        "QoE": 0.9205528213828287, 
+        "Representation": "1", 
+        "Response": 10.257385015487671, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578471": {
+        "Buffer": 0, 
+        "ChunkID": "104", 
+        "Freezing": 1.8133971691131592, 
+        "QoE": 0.6690712625626603, 
+        "Representation": "1", 
+        "Response": 6.813261032104492, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578509": {
+        "Buffer": 0, 
+        "ChunkID": "106", 
+        "Freezing": 21.835464000701904, 
+        "QoE": 0.14197875907008284, 
+        "Representation": "1", 
+        "Response": 26.8353009223938, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578539": {
+        "Buffer": 0, 
+        "ChunkID": "108", 
+        "Freezing": 8.147858142852783, 
+        "QoE": 0.3339555982251272, 
+        "Representation": "1", 
+        "Response": 13.147695064544678, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578568": {
+        "Buffer": 0, 
+        "ChunkID": "110", 
+        "Freezing": 9.456238031387329, 
+        "QoE": 0.3018951321802835, 
+        "Representation": "1", 
+        "Response": 14.456085920333862, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578600": {
+        "Buffer": 1.5023829936981201, 
+        "ChunkID": "113", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.49747896194458, 
+        "User": "planetlab2.csee.usf.edu"
+    }, 
+    "1446578603": {
+        "Buffer": 3.042915105819702, 
+        "ChunkID": "114", 
+        "Freezing": 0, 
+        "QoE": 1.1075967936894568, 
+        "Representation": "1", 
+        "Response": 3.458040952682495, 
+        "User": "planetlab2.csee.usf.edu"
+    }
+}
