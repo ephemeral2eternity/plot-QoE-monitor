@@ -7,6 +7,7 @@ import csv
 import glob
 import re
 import ntpath
+import os
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
@@ -47,7 +48,7 @@ def qoe2sqs_csv(inputFolder, outputFolder):
     for srv in sqs.keys():
         outputFileName = outputFolder + srv + "_sqs.csv"
         f = open(outputFileName, 'wb')
-        for ts in sorted(sqs[srv].keys(), key=int):
+        for ts in sorted(sqs[srv].keys(), key=float):
             row = ", ".join(str(x) for x in sqs[srv][ts])
             f.write(str(ts) + ", " + row + "\n")
         f.close()
@@ -68,7 +69,7 @@ def qoe2sqs_json(inputFolder, outputFolder, qoeType):
         user_file_name = ntpath.basename(user_qoe_file)
         user_name = user_file_name.split('_')[0]
         user_qoes = json.load(open(user_qoe_file))
-        for chunk in sorted(user_qoes.keys(), key=int):
+        for chunk in sorted(user_qoes.keys(), key=float):
             chunk_srv = user_qoes[chunk]['Server']
             chunk_TS = user_qoes[chunk]['TS']
             if chunk_srv in sqs.keys():
@@ -79,6 +80,11 @@ def qoe2sqs_json(inputFolder, outputFolder, qoeType):
 
         print user_name
 
+    try:
+        os.stat(outputFolder)
+    except:
+        os.mkdir(outputFolder)
+
     for srv in sqs.keys():
         outputFileName = outputFolder + srv + "_sqs.json"
         with open(outputFileName, 'w') as outfile:
@@ -88,7 +94,7 @@ def qoe2sqs_json(inputFolder, outputFolder, qoeType):
 ## ==================================================================================================
 # Main testing script
 ## ==================================================================================================
-inputFolder = "D://Data/azure-1128/azure-daily/azure-1128-0600/"
-outputFolder = "D://Data/azure-sqs-1128/azure-daily/azure-1128-0600/"
+inputFolder = "D://Data/azure-1130/qoe/azure2000/"
+outputFolder = "D://Data/azure-1130/sqs/azure2000/"
 qoeType = 'QoE2'      # QoE2 is cascading model and QoE1 is linear model
 qoe2sqs_json(inputFolder, outputFolder, qoeType)

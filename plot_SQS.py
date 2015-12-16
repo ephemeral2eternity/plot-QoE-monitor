@@ -121,8 +121,8 @@ def plot_exp_smoothing_sqs(dataFile, alpha, plt_sty, pltMode):
 ## ==================================================================================================
 # Draw chunk QoE over time for multiple servers.
 ## ==================================================================================================
-dataFolder = "/Users/Chen/code/python/plot-QoE-monitor/azure/azure-sqs-json-1116/"
-dataLabel = "Azure1116"
+dataFolder = "D://Data/azure-sqs-1128/azure-daily/azure-1128-2200/"
+dataLabel = "Azure11282200"
 srv_files = glob.glob(dataFolder + "*.json")
 plt_styles = ['b-', 'k-v', 'r-x', 'm->', 'y-s', 'k-h', 'g-^', 'b-o', 'r-*', 'm-d', 'y-<', 'g-o', 'b-8']
 ln_styles = ['b-', 'k-.', 'r--', 'm:', 'y-', 'g-.', 'b--', 'k:', 'r-', 'm-.', 'y--', 'g:', 'b-+']
@@ -134,9 +134,10 @@ ln_styles = ['b-', 'k-.', 'r--', 'm:', 'y-', 'g-.', 'b--', 'k:', 'r-', 'm-.', 'y
 # ts_interval = [1446577200, 1446577800]
 
 # Azure1116 10 minutes
-ts_interval = [1447687800, 1447688400]
+ts_start = 1448748000
+ts_duration = 900
+ts_interval = [ts_start, ts_start + ts_duration]
 
-'''
 figNo = 0
 fig, ax = plt.subplots()
 pltMode = "srv"
@@ -163,9 +164,9 @@ ax.set_ylim([0,5])
 
 ax.set_position([box.x0, box.y0 + 0.1, box.width, box.height * 0.9])
 ax.legend(bbox_to_anchor=(1.0, 0.9), fancybox=True, shadow=True, ncol=1, prop={'size':15})
-params = {'legend.fontsize': 15, 'legend.linewidth': 2}
-plt.rcParams.update(params)
-ax.set_title('Chunk QoE monitored from users on all servers', fontsize=20) 
+# params = {'legend.fontsize': 15, 'legend.linewidth': 2}
+# plt.rcParams.update(params)
+ax.set_title('Chunk QoE monitored from users on all servers', fontsize=20)
 plt.show()
 
 pdf = PdfPages('./imgs/' + dataLabel + '_EXP_SQS.pdf')
@@ -199,7 +200,7 @@ pdf = PdfPages('./imgs/' + dataLabel + '_SQS_Bar_on_Servers.pdf')
 pdf.savefig(fig)
 pdf.close()
 
-'''
+
 '''
 ## ==================================================================================================
 # Compare methods of SQS on one server including chunk QoE, moving average and smooth streaming
