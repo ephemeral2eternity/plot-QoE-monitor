@@ -142,8 +142,8 @@ def draw_per_srv_users(normal_users, abnormal_users):
 ## ==================================================================================================
 # Draw chunk QoE over time for multiple servers.
 ## ==================================================================================================
-dataFolder = "/Users/Chen/code/python/plot-QoE-monitor/fastly-qoe-1103/"
-dataLabel = "Fastly1103"
+dataFolder = "/cygdrive/d/Data/azure-1128"
+dataLabel = "Azure1128"
 SLA = 1.0
 
 normal_users, abnormal_users = detect_abnormal_users(dataFolder, SLA)
