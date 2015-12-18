@@ -165,8 +165,8 @@ def search_domain_region(client_domain, domains):
 ## ==================================================================================================
 # Draw chunk QoE over time for multiple servers.
 ## ==================================================================================================
-dataFolder = "/Users/Chen/code/python/plot-QoE-monitor/azure/azure-sqs-json-1116/"
-dataLabel = "Azure1116"
+dataFolder = "D://Data/cloud-monitor-data/anomaly-1216/sqs/"
+dataLabel = "Anomaly1216"
 srv_files = glob.glob(dataFolder + "*.json")
 # plt_styles = ['k-v', 'b-8', 'r-x', 'm->', 'y-s', 'k-h', 'g-^', 'b-o', 'r-*', 'm-d', 'y-<', 'g-o']
 
@@ -178,7 +178,7 @@ domains = {'Europe': ['pl', 'dk', 'es', 'pt', 'uk', 'fr', 'it', 'gr', 'cz', 'de'
 ## The full interval of all servers
 # ts_interval = [1446577200, 1446578700]
 
-cur_file = srv_files[1]
+cur_file = srv_files[0]
 sqs_bar_on_users(cur_file, domains)
 # SLA = 1.0
 # sqs_curve_on_users(cur_file, SLA)

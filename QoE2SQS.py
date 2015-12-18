@@ -94,7 +94,7 @@ def qoe2sqs_json(inputFolder, outputFolder, qoeType):
 ## ==================================================================================================
 # Main testing script
 ## ==================================================================================================
-inputFolder = "D://Data/azure-1130/qoe/azure2000/"
-outputFolder = "D://Data/azure-1130/sqs/azure2000/"
+inputFolder = "D://Data/cloud-monitor-data/anomaly-1216/qoe/"
+outputFolder = "D://Data/cloud-monitor-data/anomaly-1216/sqs/"
 qoeType = 'QoE2'      # QoE2 is cascading model and QoE1 is linear model
 qoe2sqs_json(inputFolder, outputFolder, qoeType)
